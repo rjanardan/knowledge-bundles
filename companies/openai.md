@@ -68,6 +68,7 @@ relations:
   - { type: invested-by, target: /companies/amazon.md, round: "2026-02", amount_usd: 50000000000 }
   - { type: invested-by, target: /companies/nvidia.md, round: "2026-02", amount_usd: 30000000000 }
   - { type: invested-by, target: /investors/tpg.md, round: "DeployCo", at: 2026-05 }
+  - { type: invested-by, target: /investors/sequoia-capital.md, since: 2021, note: "the firm dates its partnership with OpenAI to 2021" }
 sources:
   - id: wiki-openai
     resource: https://en.wikipedia.org/wiki/OpenAI

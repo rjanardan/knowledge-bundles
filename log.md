@@ -5,6 +5,23 @@ title: leading-ai-companies bundle history
 
 # Bundle history
 
+## 2026-09-11 - review batch 4: five investors, and the company they all back
+
+**Addition.** Six concepts: five `Investor` files - [NFDG](/investors/nfdg.md), [a16z](/investors/a16z.md), [Sequoia Capital](/investors/sequoia-capital.md), [DST Global](/investors/dst-global.md) and [SV Angel](/investors/sv-angel.md) - and one `Company`, [Safe Superintelligence](/companies/ssi.md), which closes three pending references the founder files had been carrying since batch 3. The `investors/` directory is no longer declared and empty.
+
+**What the sources settled.** The five names in the request are not an arbitrary list: TechCrunch's account of the September 2024 round in Safe Superintelligence names exactly these five, so the batch is also a fact about who backs one company. Sequoia's own portfolio pages gave that firm's framing of each relationship, with the year it dates the partnership and the partners on the account - OpenAI partnered 2021, Anthropic 2026, Safe Superintelligence 2024. xAI's announcement of its Series B names a16z and Sequoia, the one place outside SSI where both appear together.
+
+**Two rule applications, recorded because they are the point of having rules.**
+
+* **A single press profile is not a portfolio.** A Forbes Midas profile describes SV Angel's growth fund as holding OpenAI and Anthropic. Both claims are written into the file with their weakness stated, and neither became an edge, under the rule that a disputed or single-source claim never enters `relations`.
+* **Fund money and principal money are different facts.** The ElevenLabs Series A was co-led by Nat Friedman, Daniel Gross and a16z; the sources name the two men rather than NFDG, so the a16z edge is recorded and the NFDG one is not.
+
+**Conventions change.** `conventions.md` gains an `## Investor files` section that freezes the section order for the directory and the evidence rule for a portfolio claim: a round announcement, the investee's own disclosure, or the investor's own portfolio page, with trackers permitted to describe a firm but never to add an edge. The timeline chart's cap was restated as four to six milestones per era, which is what the chart does.
+
+**Timeline.** Twelve rows added and the chart regenerated in this commit, per the maintenance rule. The chart now carries the investor foundings of 1972 and 2009, the Start fund of 2011, Sequoia's OpenAI partnership, the Mistral and ElevenLabs leads, the SSI round and valuation, and the Series H co-leads.
+
+**Measured.** `_tools/okf-check.py` reports 36 concepts, 353 edges, 122 pending targets and 173 pending edges, and passes clean. `verified` is absent on all 36.
+
 ## 2026-09-11 - review batch 3: the OpenAI founding cohort, LeCun, and a timeline directory
 
 **Addition.** Twelve `Person` concepts: [Ilya Sutskever](/founders/ilya-sutskever.md), [Greg Brockman](/founders/greg-brockman.md), [Andrej Karpathy](/founders/andrej-karpathy.md), [John Schulman](/founders/john-schulman.md), [Durk Kingma](/founders/durk-kingma.md), [Trevor Blackwell](/founders/trevor-blackwell.md), [Vicki Cheung](/founders/vicki-cheung.md), [Pamela Vagata](/founders/pamela-vagata.md), [Wojciech Zaremba](/founders/wojciech-zaremba.md), [Elon Musk](/founders/elon-musk.md), [Mira Murati](/founders/mira-murati.md) and [Yann LeCun](/founders/yann-lecun.md). Plus a new `timeline/` directory holding [the chronology](/timeline/ai-ecosystem.md), which carries `related-to` edges to all 25 concepts it covers.

@@ -52,6 +52,7 @@ relations:
   - { type: invested-by, target: /investors/dragoneer.md, round: "Series H", role: lead, at: 2026-05-28 }
   - { type: invested-by, target: /investors/greenoaks.md, round: "Series H", role: lead, at: 2026-05-28 }
   - { type: invested-by, target: /investors/sequoia-capital.md, round: "Series H", role: lead, at: 2026-05-28 }
+  - { type: invested-by, target: /investors/dst-global.md, round: "Series H", role: participant, at: 2026-05-28 }
   - { type: invested-by, target: /investors/coatue.md, round: "Series H", role: co-lead, at: 2026-05-28 }
   - { type: invested-by, target: /investors/capital-group.md, round: "Series H", role: co-lead, at: 2026-05-28 }
   - { type: invested-by, target: /companies/amazon.md, round: "Series H", amount_usd: 5000000000, at: 2026-04 }

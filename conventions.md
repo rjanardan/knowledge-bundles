@@ -102,7 +102,19 @@ The author namespace carries the signal that a credibility score would otherwise
 * A timeline row is written only after the underlying fact has landed in a concept file, and it cites the same source that file cites. Nothing is written into a timeline first and sourced later.
 * A timeline concept carries `related-to` edges to every concept it covers, so the chronology is reachable from the graph and the graph from the chronology.
 * **Maintenance rule.** Any batch that adds a dated fact updates the timeline and its chart in the same commit, and the chart is regenerated rather than appended to. A view that lags the corpus is worse than no view, because it reads as current.
-* Two renderings, one content. The text timeline comes first, bulleted and indented, for phones and for screen readers. The Mermaid chart follows, capped at six eras of about four milestones each. Chart labels carry no colons or parentheses, which keeps the diagram rendering in one pass.
+* Two renderings, one content. The text timeline comes first, bulleted and indented, for phones and for screen readers. The Mermaid chart follows, capped at six eras of four to six milestones each, with anything that does not change the shape left to the list and out of the diagram. Chart labels carry no colons or parentheses, which keeps the diagram rendering in one pass.
+
+## Investor files
+
+Funds get their own section order, frozen here so the directory stays diffable the way `companies/` is:
+
+`## Snapshot` - `## Timeline` - `## Founding and partners` - `## AI companies invested in` - `## The team` where the firm names one - `## Relations` - `## What is not established` - `## Disputed and unverified`.
+
+Three rules attach to the portfolio section, and they exist because fund reporting is the least disciplined source in this bundle:
+
+* **A portfolio claim needs a round announcement, the investee's own disclosure, or the investor's own published portfolio page.** A tracker, a funding database or an aggregator may be cited to describe a firm, but not to add an edge.
+* **Fund money and principal money are different facts.** Where a named individual led a round, the edge is recorded only if the source attributes the money to the firm; otherwise the fact is written down in prose and left out of the graph.
+* **A single press profile is not a portfolio.** A position reported by one outlet, with no round announcement behind it, belongs in the last section of the file, labelled, and never in `relations`.
 
 ## Staleness
 

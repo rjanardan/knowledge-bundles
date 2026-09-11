@@ -42,6 +42,15 @@ relations:
   - { type: related-to, target: /models/gpt.md }
   - { type: related-to, target: /models/gemini.md }
   - { type: related-to, target: /technologies/mcp.md }
+  - { type: related-to, target: /companies/ssi.md }
+  - { type: related-to, target: /investors/nfdg.md }
+  - { type: related-to, target: /investors/a16z.md }
+  - { type: related-to, target: /investors/sequoia-capital.md }
+  - { type: related-to, target: /investors/dst-global.md }
+  - { type: related-to, target: /investors/sv-angel.md }
+  - { type: related-to, target: /ai-domains/foundation-models.md }
+  - { type: related-to, target: /ai-domains/agentic-ai.md }
+  - { type: related-to, target: /ai-use-cases/ai-sdlc.md }
 sources:
   - id: openai-intro
     resource: https://openai.com/index/introducing-openai/
@@ -167,6 +176,54 @@ sources:
     resource: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
     title: 'Google, "Next chapter of AI momentum", message from Sundar Pichai, 5 August 2026'
     author: org:google
+  - id: wiki-sequoia
+    resource: https://en.wikipedia.org/wiki/Sequoia_Capital
+    title: 'Wikipedia, "Sequoia Capital"'
+    author: wiki:en
+  - id: wiki-a16z
+    resource: https://en.wikipedia.org/wiki/Andreessen_Horowitz
+    title: 'Wikipedia, "Andreessen Horowitz"'
+    author: wiki:en
+  - id: wiki-dst
+    resource: https://en.wikipedia.org/wiki/DST_Global
+    title: 'Wikipedia, "DST Global"'
+    author: wiki:en
+  - id: wiki-sva
+    resource: https://en.wikipedia.org/wiki/SV_Angel
+    title: 'Wikipedia, "SV Angel"'
+    author: wiki:en
+  - id: wiki-ssi
+    resource: https://en.wikipedia.org/wiki/Safe_Superintelligence
+    title: 'Wikipedia, "Safe Superintelligence"'
+    author: wiki:en
+  - id: seq-openai
+    resource: https://sequoiacap.com/companies/openai
+    title: 'Sequoia Capital, "OpenAI", portfolio page: founded 2015, partnered 2021'
+    author: org:sequoia-capital
+  - id: tc-ssi
+    resource: https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/
+    title: 'TechCrunch, "Ilya Sutskever startup Safe Superintelligence raises $1B", 4 September 2024'
+    author: org:techcrunch
+  - id: tc-eleven
+    resource: https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/
+    title: 'TechCrunch, "Voice-generating platform ElevenLabs raises $19M, launches detection tool", 20 June 2023'
+    author: org:techcrunch
+  - id: tc-anysphere
+    resource: https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/
+    title: 'TechCrunch, "Anysphere, a GitHub Copilot rival, has raised $60M Series A at $400M valuation from a16z, Thrive, sources say", 9 August 2024'
+    author: org:techcrunch
+  - id: tc-worldlabs
+    resource: https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/
+    title: 'TechCrunch, "Fei-Fei Li World Labs comes out of stealth with $230M in funding", 13 September 2024'
+    author: org:techcrunch
+  - id: techeu-mistral
+    resource: https://tech.eu/2023/12/11/mistral-ai-confirms-385m-series-a-funding-round
+    title: 'Tech.eu, "Mistral AI confirms 385 million euro Series A funding round", 11 December 2023'
+    author: org:tech-eu
+  - id: xai-b
+    resource: https://x.ai/news/series-b
+    title: 'xAI, "Series B funding round", 26 May 2024'
+    author: org:xai
 ---
 
 # Timeline of leading AI companies, people and turning points
@@ -181,6 +238,7 @@ Bulleted and indented, oldest first, written to be readable on a phone with no r
   * 1960 - Yann LeCun born at Soisy-sous-Montmorency, near Paris.[^wiki-lecun]
   * 1969 - Trevor Blackwell born in Canada and raised in Saskatoon.[^wiki-blackwell]
   * 1971 - Elon Musk born.[^wiki-musk]
+  * 1972 - Sequoia Capital founded by Don Valentine in Menlo Park, California.[^wiki-sequoia]
   * 1976 - Demis Hassabis born.[^wiki-hassabis]
   * 1983 - Durk Kingma born in the Netherlands.[^wiki-kingma]
   * 1983 - Dario Amodei born.[^wiki-dario]
@@ -192,8 +250,13 @@ Bulleted and indented, oldest first, written to be readable on a phone with no r
   * 1988 - Wojciech Zaremba born on 30 November in Poland.[^wiki-zaremba]
   * 1988 - Mira Murati born on 16 December.[^wiki-murati]
   * 1998 - Google founded by Larry Page and Sergey Brin.[^wiki-google]
+* **1999 to 2010**
+  * 2009-07-06 - Andreessen Horowitz launches with $300M of initial capitalisation, later shortened to a16z.[^wiki-a16z]
+  * 2009 - DST Global is set up by Yuri Milner as a separate vehicle for the international investments of Digital Sky Technologies.[^wiki-dst]
+  * 2009 - SV Angel is founded in San Francisco by Ron Conway and David Lee; its first fund raises $10M.[^wiki-sva]
 * **2010 to 2016**
   * 2010-11 - DeepMind Technologies founded in London by Demis Hassabis, Shane Legg and Mustafa Suleyman.[^wiki-deepmind]
+  * 2011-01 - DST Global and SV Angel launch the Start fund, which offers every Y Combinator startup $150,000 in convertible debt.[^wiki-sva]
   * 2013-12-09 - Yann LeCun becomes the first director of Meta AI Research.[^wiki-lecun]
   * 2014-01-26 - Google confirms the DeepMind acquisition.[^wiki-deepmind]
   * 2015-12 - OpenAI founded as a Delaware nonprofit with eleven named founders; Sam Altman and Elon Musk are co-chairs and the founding funders pledge $1B.[^openai-intro]
@@ -204,6 +267,7 @@ Bulleted and indented, oldest first, written to be readable on a phone with no r
   * 2018 - Elon Musk resigns from OpenAI's board.[^wiki-openai]
   * 2018 - Mira Murati joins OpenAI as vice president of applied AI and partnerships, two and a half years after the founding.[^wiki-murati]
   * 2021-01-26 - Anthropic founded by former OpenAI staff as a Delaware public benefit corporation.[^wiki-anthropic]
+  * 2021 - Sequoia Capital dates its partnership with OpenAI to this year, and lists Alfred Lin, James Flynn, Pat Grady and Sonya Huang on the account.[^seq-openai]
   * 2021-05 - Anthropic's first raise, $124M.[^wiki-anthropic]
   * 2021-09 - Pamela Vagata becomes a founding partner of Pebblebed, a seed-stage venture firm for technical founders.[^vcsheet] [^pebblebed]
 * **2022 to 2024**
@@ -217,10 +281,18 @@ Bulleted and indented, oldest first, written to be readable on a phone with no r
   * 2024-06 - Sutskever co-founds Safe Superintelligence Inc with Daniel Gross and Daniel Levy.[^wiki-sutskever]
   * 2024-07-16 - Karpathy announces Eureka Labs, an AI-native school.[^eureka]
   * 2024-08 - John Schulman leaves OpenAI for Anthropic.[^wiki-schulman]
+  * 2023-06-20 - ElevenLabs raises a $19M Series A co-led by Nat Friedman, Daniel Gross and Andreessen Horowitz, with SV Angel among the other participants.[^tc-eleven]
+  * 2023-12-11 - Mistral AI confirms a 385 million euro Series A led by Andreessen Horowitz.[^techeu-mistral]
+  * 2024-05-26 - xAI raises a $6B Series B, naming a16z and Sequoia Capital among the investors.[^xai-b]
+  * 2024-08-09 - Anysphere, the company behind Cursor, raises a $60M Series A co-led by a16z and Thrive Capital.[^tc-anysphere]
+  * 2024-09-04 - Safe Superintelligence discloses a reported $1B round at a $5B valuation, naming NFDG, a16z, Sequoia, DST Global and SV Angel.[^tc-ssi]
+  * 2024-09-13 - World Labs comes out of stealth with $230M, with a16z among the investors.[^tc-worldlabs]
   * 2024-09 - Replit releases the first version of Replit Agent.[^wiki-replit]
   * 2024-11-25 - Anthropic releases the Model Context Protocol.[^wiki-mcp]
 * **2025**
   * 2025-02 - Mira Murati launches Thinking Machines Lab, and John Schulman joins as chief scientist.[^wiki-murati] [^wiki-schulman]
+  * 2025-03 - Safe Superintelligence reaches a $30B valuation in a round led by Greenoaks Capital, six times the previous valuation.[^wiki-ssi]
+  * 2025-07 - Daniel Gross leaves Safe Superintelligence for Meta Superintelligence Labs, and Ilya Sutskever becomes chief executive.[^wiki-ssi]
   * 2025-10 - Thinking Machines Lab announces Tinker, its first product.[^wiki-murati]
   * 2025-11-18 - Gemini 3 Pro released.[^wiki-gemini]
   * 2025-11-19 - LeCun confirms he is leaving Meta after ten years.[^wiki-lecun]
@@ -232,7 +304,8 @@ Bulleted and indented, oldest first, written to be readable on a phone with no r
   * 2026-04 - The OpenAI Foundation commits at least $1B a year, with Wojciech Zaremba leading AI resilience.[^foundation-news]
   * 2026-05-18 - A federal jury decides for OpenAI, Altman and Brockman in Musk v. Altman, on limitation grounds; Musk announces an appeal.[^wiki-openai]
   * 2026-05-19 - Karpathy joins Anthropic to lead pretraining research.[^wiki-karpathy]
-  * 2026-05-28 - Anthropic raises a $65B Series H at a $965B post-money valuation.[^techcrunch-series-h]
+  * 2026-01 - Andreessen Horowitz raises $15B across new funds, taking assets under management to $90B.[^wiki-a16z]
+  * 2026-05-28 - Anthropic raises a $65B Series H at a $965B post-money valuation, co-led by Sequoia Capital and with DST Global among the institutional investors.[^techcrunch-series-h]
   * 2026-06-08 - OpenAI confirms an IPO filing with the SEC.[^wiki-openai]
   * 2026-07 - Nvidia announces a $5B investment in Safe Superintelligence Inc.[^wiki-sutskever]
   * 2026-07-15 - Thinking Machines Lab releases Inkling, its open-weights model.[^tml-news]
@@ -243,41 +316,44 @@ Bulleted and indented, oldest first, written to be readable on a phone with no r
 
 ## Timeline chart
 
-Left to right. Six eras, four or five milestones each, short labels only: the chart is for shape, the list above is for evidence. Colons, parentheses and source markers are deliberately kept out of the labels so that the diagram renders in one pass.
+Left to right. Six eras, four to six milestones each, short labels only: the chart is for shape, the list above is for evidence. Colons, parentheses and source markers are deliberately kept out of the labels so that the diagram renders in one pass.
 
 ```mermaid
 timeline
-    title Companies, people and turning points, 1960 to 2026
+    title Companies, people, investors and turning points, 1960 to 2026
     section 1960 to 1998
         1960 : LeCun born near Paris
-        1969 : Blackwell born in Canada
         1971 : Musk born
-        1976 : Hassabis born
+        1972 : Sequoia Capital founded
         1986 : Sutskever and Karpathy born
         1998 : Google founded
-    section 2010 to 2016
+    section 1999 to 2010
+        2009 : Andreessen Horowitz founded
+        2009 : DST Global and SV Angel founded
         2010 : DeepMind founded in London
-        2013 : LeCun opens Meta AI Research
+    section 2011 to 2016
+        2011 : The Start fund links DST Global and SV Angel
         2014 : Google confirms DeepMind acquisition
         2015 : OpenAI founded by eleven named founders
         2016 : Replit founded
     section 2017 to 2021
         2018 : Musk resigns from the OpenAI board
         2018 : Murati joins OpenAI, not as a founder
+        2021 : Sequoia partners with OpenAI
         2021 : Anthropic founded
     section 2022 to 2024
         2022 : ChatGPT released
-        2023 : Claude launched and xAI founded
-        2024 : Sutskever leaves OpenAI and co-founds SSI
+        2023 : a16z leads Mistral and co-leads ElevenLabs
+        2024 : Sutskever founds SSI
+        2024 : Five funds back SSI
+        2024 : xAI raises its Series B with a16z and Sequoia
         2024 : Schulman leaves OpenAI for Anthropic
-    section 2025
+    section 2025 to 2026
+        2025 : SSI valued at 30 billion
         2025 : Thinking Machines Lab founded
-        2025 : LeCun confirms he is leaving Meta
-        2025 : MCP donated to the Linux Foundation
-    section 2026
         2026 : Karpathy joins Anthropic
         2026 : Nvidia puts 5B dollars into SSI
-        2026 : OpenAI files for an IPO
+        2026 : Sequoia co-leads the Anthropic Series H
         2026 : Hassabis steps down as DeepMind chief executive
 ```
 
@@ -292,11 +368,11 @@ This file is not a second home for facts, and the rule that keeps it honest is s
 
 ## Coverage
 
-Every concept in the bundle is a `related-to` target of this file. That is deliberate: a timeline that covers only some of the corpus is a claim about the corpus that would be false.
+Every concept in the bundle that carries a dated fact is a `related-to` target of this file, which is all of them except the generated subdirectory indexes and this file itself. That is deliberate: a timeline that covers only some of the corpus is a claim about the corpus that would be false.
 
 ## Disputed and unverified
 
-Two entries are weaker than the rest and are labelled as such rather than removed. The Nvidia investment in SSI is a Wikipedia figure with no first-party page retrieved, and the role-change entry of 5 August 2026 is quoted from the first-party Google post but goes no further than that post's own wording: this file does not name Hassabis's successor, because the concept file that would carry that has not been changed yet.
+Two entries are weaker than the rest and are labelled as such rather than removed. The Nvidia investment in SSI is a Wikipedia figure with no first-party page retrieved, and the role-change entry of 5 August 2026 is quoted from the first-party Google post but goes no further than that post's own wording: this file does not name Hassabis's successor, because the concept file that would carry that has not been changed yet. Two entries added with the investors batch, the March 2025 SSI valuation and the July 2025 change of chief executive at SSI, come from the encyclopaedia entry rather than from a first-party page.
 
 [^openai-intro]: OpenAI, "Introducing OpenAI", the December 2015 founding announcement, https://openai.com/index/introducing-openai/
 [^wiki-openai]: Wikipedia, "OpenAI", https://en.wikipedia.org/wiki/OpenAI
@@ -329,3 +405,15 @@ Two entries are weaker than the rest and are labelled as such rather than remove
 [^techcrunch-series-h]: TechCrunch, "Anthropic raises $65 billion, nears $1T valuation ahead of IPO", 28 May 2026, https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
 [^openai-news]: OpenAI, news index, https://openai.com/news/
 [^blog-google]: Google, "Next chapter of AI momentum", message from Sundar Pichai, 5 August 2026, https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
+[^wiki-sequoia]: Wikipedia, "Sequoia Capital", https://en.wikipedia.org/wiki/Sequoia_Capital
+[^wiki-a16z]: Wikipedia, "Andreessen Horowitz", https://en.wikipedia.org/wiki/Andreessen_Horowitz
+[^wiki-dst]: Wikipedia, "DST Global", https://en.wikipedia.org/wiki/DST_Global
+[^wiki-sva]: Wikipedia, "SV Angel", https://en.wikipedia.org/wiki/SV_Angel
+[^wiki-ssi]: Wikipedia, "Safe Superintelligence", https://en.wikipedia.org/wiki/Safe_Superintelligence
+[^seq-openai]: Sequoia Capital, "OpenAI", portfolio page: founded 2015, partnered 2021, https://sequoiacap.com/companies/openai
+[^tc-ssi]: TechCrunch, "Ilya Sutskever startup Safe Superintelligence raises $1B", 4 September 2024, https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/
+[^tc-eleven]: TechCrunch, "Voice-generating platform ElevenLabs raises $19M, launches detection tool", 20 June 2023, https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/
+[^tc-anysphere]: TechCrunch, "Anysphere, a GitHub Copilot rival, has raised $60M Series A at $400M valuation from a16z, Thrive, sources say", 9 August 2024, https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/
+[^tc-worldlabs]: TechCrunch, "Fei-Fei Li World Labs comes out of stealth with $230M in funding", 13 September 2024, https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/
+[^techeu-mistral]: Tech.eu, "Mistral AI confirms 385 million euro Series A funding round", 11 December 2023, https://tech.eu/2023/12/11/mistral-ai-confirms-385m-series-a-funding-round
+[^xai-b]: xAI, "Series B funding round", 26 May 2024, https://x.ai/news/series-b

@@ -8,7 +8,7 @@
 | [Andrej Karpathy](andrej-karpathy.md) | Person | OpenAI founding member and former Tesla AI director who founded Eureka Labs, coined the term vibe coding, and joined Anthropic in May 2026 to lead pretraining research. |
 | [Dario Amodei](dario-amodei.md) | Person | Co-founder and CEO of Anthropic; previously VP of Research at OpenAI, Google Brain, and Baidu's Silicon Valley AI Lab. |
 | [Demis Hassabis](demis-hassabis.md) | Person | Co-founder and chairman of Google DeepMind, Alphabet's chief scientist from 2026, chief executive of Isomorphic Labs and joint winner of the 2024 Nobel Prize in Chemistry; a chess prodigy turned game developer turned neuroscientist. |
-| [durk-kingma](durk-kingma.md) | ? |  |
+| [Durk Kingma](durk-kingma.md) | Person | Dutch machine learning researcher and OpenAI co-founder, co-author of the Adam optimizer and the variational autoencoder, now a researcher at Anthropic in Amsterdam. |
 | [Elon Musk](elon-musk.md) | Person | Co-founder and first co-chair of OpenAI, who resigned from its board in 2018, sued it in 2024, lost in May 2026, and whose xAI became a SpaceX subsidiary in 2026. |
 | [Greg Brockman](greg-brockman.md) | Person | Co-founder and president of OpenAI, previously chief technology officer of Stripe; co-author of the December 2015 founding announcement and a defendant in Musk v. Altman. |
 | [Ilya Sutskever](ilya-sutskever.md) | Person | Co-founder and former chief scientist of OpenAI, co-creator of AlexNet and sequence-to-sequence learning, and since 2024 co-founder and chief executive of Safe Superintelligence Inc. |
