@@ -5,6 +5,29 @@ title: leading-ai-companies bundle history
 
 # Bundle history
 
+## 2026-09-11 - review batch 5: the founders of the five funds
+
+**Addition.** Six `Person` files, one for each founder the investor batch had been pointing at without a concept: [Nat Friedman](/founders/nat-friedman.md), [Daniel Gross](/founders/daniel-gross.md), [Yuri Milner](/founders/yuri-milner.md), [Don Valentine](/founders/don-valentine.md), [Ron Conway](/founders/ron-conway.md) and [David Lee](/founders/david-lee.md). All six existed only as `founded-by` targets on the five investor files, so this batch turns the investor directory from a set of claims into a set of claims with people behind them. DeepMind's succession gap was left open on your instruction, and the timeline says so in its own last section rather than changing.
+
+**What the sources settled.** Four of the six reached venture capital from outside finance - semiconductors, theoretical physics, web search, developer tools - and all six did it through an operating role. Two of them are one partnership: Friedman and Gross created AI Grant in 2017, deployed the Andromeda Cluster together in 2023 and co-founded NFDG the same year. Valentine's career supplies the origin of the pattern this whole directory describes: he came to investing from Fairchild and National Semiconductor, founded Sequoia in 1972, and put that firm into Atari in 1975 and Apple in 1978.
+
+**Corrections to the record, written in the files rather than left implicit.**
+
+* Valentine is widely described as a co-founder of National Semiconductor. The reference work read says he joined it as a senior sales and marketing executive after Raytheon, so the file records employment and writes no founding edge.
+* Gross is often placed at Y Combinator from 2014. The source dates the partner role to 2017 and Pioneer to August 2018.
+* David Lee's founding of SV Angel is contested: Fortune calls him a co-founder, the reference work says he joined in 2007. The edge is carried with the discrepancy in its note rather than resolved by preference.
+* The AI Grant start year is disputed between 2017, which the programme's own site implies with "more than thirty grants since 2017", and 2021, which the reference entry states. The edge records 2017 and the conflict.
+
+**Rule applications worth carrying forward.** Fund-level facts stay on the fund's file: the portfolios that made Valentine's and Conway's names are Sequoia's and Angel Investors LP's positions, and the reference-work evidence does not meet the portfolio bar, so they are prose here and the files say why. A reciprocal founding counts once, stated in the conventions because both directions now exist in the corpus. `died` is a permitted key, used once, for a fact about the subject rather than a judgement about the file.
+
+**Conventions change.** `conventions.md` gains `## Person files`: the frozen section order for the directory, the rule that career edges are written for companies inside the AI story rather than for every employer, and the counting rule for a reciprocal founding.
+
+**Timeline.** 35 rows added, the whole list re-sorted into chronological order - it had drifted, with 2023 rows sitting under 2024 and the a16z funds row out of place in 2026 - and the chart regenerated in this commit, per the maintenance rule. The chart now carries Milner's birth, Friedman's Ximian and Xamarin foundings, Lee's departures and arrival at Samsung Next, AI Grant, and Valentine's death, and drops the Thinking Machines row to the list because a lab launch does not change the chart's shape.
+
+**Measured.** `_tools/okf-check.py` passes clean at 42 concepts, 398 edges, 138 pending targets and 197 pending edges. `verified` is absent on all 42, and the six new files carry four, four, two, two, two and four sources respectively.
+
+**Still not done, by design.** No portraits for these six: no asset with an explicit licence was cleared, and the image rules require visual verification before anything is bundled, so the directory stays text-only for now. Board seats - Friedman at the Arc Institute, Andreessen and Horowitz at their portfolio companies, Lee at the Lucile Packard Foundation - are recorded in prose because the frozen vocabulary has no board type, which is a one-line addition if you want them in the graph.
+
 ## 2026-09-11 - review batch 4: five investors, and the company they all back
 
 **Addition.** Six concepts: five `Investor` files - [NFDG](/investors/nfdg.md), [a16z](/investors/a16z.md), [Sequoia Capital](/investors/sequoia-capital.md), [DST Global](/investors/dst-global.md) and [SV Angel](/investors/sv-angel.md) - and one `Company`, [Safe Superintelligence](/companies/ssi.md), which closes three pending references the founder files had been carrying since batch 3. The `investors/` directory is no longer declared and empty.

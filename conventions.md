@@ -47,7 +47,7 @@ One entity or idea per file. File names are lowercase-hyphenated. `index.md` and
 
 ## Frontmatter keys
 
-Required on every concept: `type`, `title`, `description`, `resource`, `tags`, `aliases`, `status`, `generated`, `stale_after`, and `sources`. Optional: `relations`, `founded`, `hq`, `image`.
+Required on every concept: `type`, `title`, `description`, `resource`, `tags`, `aliases`, `status`, `generated`, `stale_after`, and `sources`. Optional: `relations`, `founded`, `hq`, `image`, `died`.
 
 * `aliases` is mandatory, not decorative: it is the dedupe key when the same entity is reached by two names, which is the common failure in a graph built from press coverage.
 * `status` is `draft` until a batch is signed off, then `stable`.
@@ -103,6 +103,18 @@ The author namespace carries the signal that a credibility score would otherwise
 * A timeline concept carries `related-to` edges to every concept it covers, so the chronology is reachable from the graph and the graph from the chronology.
 * **Maintenance rule.** Any batch that adds a dated fact updates the timeline and its chart in the same commit, and the chart is regenerated rather than appended to. A view that lags the corpus is worse than no view, because it reads as current.
 * Two renderings, one content. The text timeline comes first, bulleted and indented, for phones and for screen readers. The Mermaid chart follows, capped at six eras of four to six milestones each, with anything that does not change the shape left to the list and out of the diagram. Chart labels carry no colons or parentheses, which keeps the diagram rendering in one pass.
+
+## Person files
+
+People get a section order of their own, frozen here for the same reason the other directories have one:
+
+`## Snapshot` - `## Education` - `## Career and outcomes` - `## Contributions` for operators and investors, `## Research contributions` for people whose work is published - `## Public positions` where the sources record one - `## Relations` - `## What is not established` - `## Disputed and unverified`.
+
+Three rules attach to person files:
+
+* **Career edges are for the ecosystem, not for the curriculum vitae.** `founded` and `previously-at` are written for companies this bundle covers or that the sources place inside the AI story, plus the company or fund the person founded; short or peripheral employers stay in prose. Without this rule the graph fills with nodes nobody will ever write.
+* **A reciprocal founding counts once.** Where a company or investor file carries `founded-by` to a person and that person's file carries `founded` back, the two describe one act, and a consumer counting relationships counts it once, the same way the mirror pairs in the edge table are counted.
+* **The dead are marked as dead.** `died` is a permitted key for a person whose death the sources record. It is a fact about the subject of the file rather than a credibility judgement, which is why it is stored.
 
 ## Investor files
 
