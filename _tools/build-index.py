@@ -29,6 +29,7 @@ DIRS = [
     ("concepts", "Concepts", "Techniques and ideas."),
     ("institutions", "Institutions", "Universities and labs founders came out of."),
     ("people", "People", "Non-founder executives."),
+    ("timeline", "Timeline", "Derived chronological views over the concepts in this bundle."),
 ]
 
 

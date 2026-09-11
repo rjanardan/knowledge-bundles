@@ -5,6 +5,23 @@ title: leading-ai-companies bundle history
 
 # Bundle history
 
+## 2026-09-11 - review batch 3: the OpenAI founding cohort, LeCun, and a timeline directory
+
+**Addition.** Twelve `Person` concepts: [Ilya Sutskever](/founders/ilya-sutskever.md), [Greg Brockman](/founders/greg-brockman.md), [Andrej Karpathy](/founders/andrej-karpathy.md), [John Schulman](/founders/john-schulman.md), [Durk Kingma](/founders/durk-kingma.md), [Trevor Blackwell](/founders/trevor-blackwell.md), [Vicki Cheung](/founders/vicki-cheung.md), [Pamela Vagata](/founders/pamela-vagata.md), [Wojciech Zaremba](/founders/wojciech-zaremba.md), [Elon Musk](/founders/elon-musk.md), [Mira Murati](/founders/mira-murati.md) and [Yann LeCun](/founders/yann-lecun.md). Plus a new `timeline/` directory holding [the chronology](/timeline/ai-ecosystem.md), which carries `related-to` edges to all 25 concepts it covers.
+
+**What the first-party source settled.** The founding announcement at openai.com names the group precisely: Ilya Sutskever as research director, Greg Brockman as chief technology officer, and "other founding members ... Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba", with Sam Altman and Elon Musk as co-chairs and $1B pledged by the founding funders. That settles the eleven-name list from the primary document rather than from an encyclopaedia, and it closes seven pending targets the OpenAI concept had carried since batch 2.
+
+**Two corrections of a common claim, recorded in-file rather than as a remark here.**
+
+* **Mira Murati is not an OpenAI founder.** She joined in 2018 as vice president of applied AI and partnerships, two and a half years after the founding; her file says so at the top and carries `previously-at`, never `founded`, toward the OpenAI concept.
+* **Yann LeCun has no OpenAI connection at all.** His file sits in `founders/` because he founded Advanced Machine Intelligence Labs in December 2025, not because of any OpenAI history.
+
+**New directory, and the schema change it forced.** `timeline/` is the first directory in this bundle whose concepts are derived rather than primary, so conventions gained a layout row, a short "Timeline files" section, and a maintenance rule: a batch that adds a dated fact updates the timeline and its chart in the same commit, with the chart regenerated rather than appended to. `type: Timeline` is now known to both tools - the checker maps the directory and accepts the type, and the index generator lists it.
+
+**Refusals and gaps, kept rather than smoothed over.** No current artificial-intelligence role is established for Trevor Blackwell, and his file says so plainly rather than implying he left the field. Vicki Cheung and Pamela Vagata have no encyclopaedia articles, so those files rest on a personal site, a 2020 conference biography, a firm page and self-reported profiles, and no dates are asserted for Cheung's sequence of roles. Wojciech Zaremba's OpenAI Foundation role comes from a trade report and his own profile, not from a first-party page. Wikipedia is the sole source for the Nvidia investment in Safe Superintelligence and for the AMI Labs round. The 2026-08-05 role change at Google DeepMind is quoted from the first-party post, which is the only source used for it, so the name of the successor is still not asserted anywhere in this bundle.
+
+**Open decision, unchanged.** The succession gap in [Google DeepMind](/companies/google-deepmind.md) - `CEO 2010-2026` with the successor unnamed - is still waiting on a choice, and this batch deliberately did not resolve it. The timeline records the announcement without saying who took over.
+
 
 ## 2026-09-11 - media
 

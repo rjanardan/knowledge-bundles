@@ -31,12 +31,12 @@ TYPE_BY_DIR = {
     "companies": "Company", "founders": "Person", "investors": "Investor",
     "ai-domains": "Domain", "ai-use-cases": "UseCase", "technologies": "Technology",
     "models": "Model", "institutions": "Institution", "people": "Person",
-    "concepts": "Concept",
+    "concepts": "Concept", "timeline": "Timeline",
 }
 SYMMETRIC = {"related-to", "competes-with", "partners-with"}
 MIRRORS = {("invested-by", "invested-in"), ("ships", "developed-by"), ("owns", "subsidiary-of")}
 KNOWN_TYPES = {"Company", "Person", "Investor", "Domain", "UseCase", "Technology",
-               "Model", "Institution", "Concept", "Convention", "Log"}
+               "Model", "Institution", "Concept", "Convention", "Log", "Timeline"}
 
 errors, warns, info = [], [], []
 

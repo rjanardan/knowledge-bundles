@@ -4,7 +4,7 @@ okf_version: "0.2"
 
 # Leading AI companies
 
-A knowledge bundle in Google's Open Knowledge Format v0.2. It is a graph first: 17 concepts carrying 192 typed edges, with `_tools/okf-check.py` for conformance and `_tools/build-index.py` for these listings.
+A knowledge bundle in Google's Open Knowledge Format v0.2. It is a graph first: 30 concepts carrying 294 typed edges, with `_tools/okf-check.py` for conformance and `_tools/build-index.py` for these listings.
 
 Entries are listed here for browsing; the machine-readable layer is the `relations` frontmatter block in each concept. Conventions are frozen in [conventions.md](conventions.md).
 
@@ -25,9 +25,21 @@ Concepts that live at the bundle root rather than inside a directory:
 # Founders
 
 * [Amjad Masad](founders/amjad-masad.md) - Co-founder and CEO of Replit; previously a software engineer at Facebook and a founding engineer at Codecademy.
+* [Andrej Karpathy](founders/andrej-karpathy.md) - OpenAI founding member and former Tesla AI director who founded Eureka Labs, coined the term vibe coding, and joined Anthropic in May 2026 to lead pretraining research.
 * [Dario Amodei](founders/dario-amodei.md) - Co-founder and CEO of Anthropic; previously VP of Research at OpenAI, Google Brain, and Baidu's Silicon Valley AI Lab.
 * [Demis Hassabis](founders/demis-hassabis.md) - Co-founder and chairman of Google DeepMind, Alphabet's chief scientist from 2026, chief executive of Isomorphic Labs and joint winner of the 2024 Nobel Prize in Chemistry; a chess prodigy turned game developer turned neuroscientist.
+* [durk-kingma](founders/durk-kingma.md) - 
+* [Elon Musk](founders/elon-musk.md) - Co-founder and first co-chair of OpenAI, who resigned from its board in 2018, sued it in 2024, lost in May 2026, and whose xAI became a SpaceX subsidiary in 2026.
+* [Greg Brockman](founders/greg-brockman.md) - Co-founder and president of OpenAI, previously chief technology officer of Stripe; co-author of the December 2015 founding announcement and a defendant in Musk v. Altman.
+* [Ilya Sutskever](founders/ilya-sutskever.md) - Co-founder and former chief scientist of OpenAI, co-creator of AlexNet and sequence-to-sequence learning, and since 2024 co-founder and chief executive of Safe Superintelligence Inc.
+* [John Schulman](founders/john-schulman.md) - OpenAI co-founder, author of the policy-optimisation algorithms behind ChatGPT's training, and since 2025 chief scientist at Thinking Machines Lab by way of Anthropic.
+* [Mira Murati](founders/mira-murati.md) - Former OpenAI chief technology officer and three-day interim chief executive, and since February 2025 the co-founder and chief executive of Thinking Machines Lab; not an OpenAI founder.
+* [Pamela Vagata](founders/pamela-vagata.md) - Founding member of OpenAI and creator of Facebook's FBLearner Flow machine learning platform, later head of AI engineering at Stripe and since 2021 a co-founder of the seed fund Pebblebed.
 * [Sam Altman](founders/sam-altman.md) - Co-founder and chief executive of OpenAI, previously president of Y Combinator and co-founder of Loopt; the central figure in OpenAI's 2023 board crisis and its 2026 listing attempt.
+* [Trevor Blackwell](founders/trevor-blackwell.md) - Canadian-American roboticist, founder of Anybots and a Y Combinator partner, named as a founding member of OpenAI in December 2015.
+* [Vicki Cheung](founders/vicki-cheung.md) - Founding engineer and head of infrastructure at OpenAI, earlier an early engineer at Duolingo, later an engineering leader at TrueVault, Lyft and Harmonic.
+* [Wojciech Zaremba](founders/wojciech-zaremba.md) - Polish mathematician and OpenAI co-founder who led its robotics work and then its GPT, Copilot and Codex teams, and now leads AI resilience at the OpenAI Foundation.
+* [Yann LeCun](founders/yann-lecun.md) - French-American computer scientist, 2018 Turing Award laureate, chief AI scientist at Meta for a decade and since 2025 the founder and executive chair of Advanced Machine Intelligence Labs.
 
 # AI Domains
 
@@ -47,6 +59,10 @@ Concepts that live at the bundle root rather than inside a directory:
 * [Claude](models/claude.md) - The large language model family sold by Anthropic, named after Claude Shannon, trained with a written constitution, and released in capability tiers from Haiku to Opus, with Mythos and Fable added in 2026.
 * [Gemini](models/gemini.md) - Google DeepMind's multimodal model family, announced in December 2023 as the successor to LaMDA and PaLM 2, released in Pro, Deep Think, Flash and Flash Lite variants, with the open-weight Gemma family as its sibling.
 * [GPT](models/gpt.md) - OpenAI's generative pre-trained transformer model family, from GPT-3's 175 billion parameters to the router-based GPT-5 system and the GPT-6 Astra release of September 2026.
+
+# Timeline
+
+* [Timeline of leading AI companies, people and turning points](timeline/ai-ecosystem.md) - A derived, left-to-right chronology of every company and person in this bundle, from 1960 to September 2026, kept as a single view that is updated whenever a dated fact lands.
 
 # Directories declared but not yet populated
 

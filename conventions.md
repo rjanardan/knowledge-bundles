@@ -39,6 +39,7 @@ Frozen on 2026-09-11 after two batches, because these rules are cheap to change 
 | `models/` | Named model releases and model families | `Model` |
 | `institutions/` | Universities and labs founders came out of | `Institution` |
 | `people/` | Non-founder executives, for engineering-leadership questions | `Person` |
+| `timeline/` | Derived chronological views over the other concepts | `Timeline` |
 | `images/` | Media cited by concepts | non-concept |
 | `_tools/` | Linter and index generator | non-concept |
 
@@ -94,6 +95,15 @@ Every load-bearing sentence carries a footnote written as `[^<id>]`, and the id 
 
 The author namespace carries the signal that a credibility score would otherwise carry: `human:<slug>` for a person, `org:<slug>` for a company, press outlet or analyst tracker, `wiki:<lang>` for a community-edited reference work, `team:<slug>` for a named internal group. No credibility field is stored, because §5.1 requires credibility to be inferred rather than persisted. A source that was only read as a headline says so in its `title`.
 
+## Timeline files
+
+`timeline/` holds derived views rather than new knowledge. That is a real exception and it is stated narrowly: the rule that a fact is recorded once is a rule about edges, not about views. The edge lives on the concept file that owns the evidence; the chronology repeats the dated result and points back with `related-to`.
+
+* A timeline row is written only after the underlying fact has landed in a concept file, and it cites the same source that file cites. Nothing is written into a timeline first and sourced later.
+* A timeline concept carries `related-to` edges to every concept it covers, so the chronology is reachable from the graph and the graph from the chronology.
+* **Maintenance rule.** Any batch that adds a dated fact updates the timeline and its chart in the same commit, and the chart is regenerated rather than appended to. A view that lags the corpus is worse than no view, because it reads as current.
+* Two renderings, one content. The text timeline comes first, bulleted and indented, for phones and for screen readers. The Mermaid chart follows, capped at six eras of about four milestones each. Chart labels carry no colons or parentheses, which keeps the diagram rendering in one pass.
+
 ## Staleness
 
 | Fact type | Window | Rationale |
@@ -117,5 +127,7 @@ Only assets with an explicit licence are bundled, and the credit is copied exact
 ## Scope merges recorded
 
 Google and Alphabet share one concept (`/companies/google.md`), because the pending-target list referenced `google` and no separate `alphabet` node existed; the file states the merge at its head. Corporate money is modelled as a company-to-company edge rather than as an `investors/` concept, so a strategic investor such as Amazon or Nvidia appears as a company node with an investment edge.
+
+Musk's artificial intelligence company is referenced throughout as `/companies/xai.md`, the path the OpenAI concept already used, so that node keeps one identity; the 2026 combination into SpaceX and the SpaceXAI name are recorded in the person file rather than as a second node.
 
 [^okf-spec]: Google, "Open Knowledge Format specification, v0.2", https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
