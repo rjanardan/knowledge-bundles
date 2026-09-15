@@ -5,6 +5,21 @@ title: leading-ai-companies bundle history
 
 # Bundle history
 
+## 2026-09-15 - use cases as the primary trunk
+
+**Restructuring intent.** The user asked to make AI use cases the primary trunk of the bundle and expand the other branches from them. Division of labour: the use-case files carry the economic/business centre (boundary, landscape, evidence, disputed), and the company files carry the `applies-to` edges that hang the actors off the trunk. Inbound-degree links that already existed on the four original use-case targets were honoured rather than moved.
+
+**Addition: five use-case concepts.** [AI-SDLC](/ai-use-cases/ai-sdlc.md) (written, now cross-linked), [no-code application building](/ai-use-cases/no-code-app-building.md) (Replit, Lovable, Cursor/Anysphere; Supabase-exposure incident as the boundary failure mode), [computer use](/ai-use-cases/computer-use.md) (Claude computer use, Claude in Chrome, Operator; the screen as an attack surface and the documented 11.2% prompt-injection figure), [enterprise knowledge and productivity](/ai-use-cases/enterprise-knowledge.md) (M365 Copilot, Gemini for Workspace, Gemini Notebook, Perplexity; the Copilot-vs-Bard launch race as one market), [scientific research](/ai-use-cases/scientific-research.md) (AlphaFold discovery vs deep-research synthesis, kept distinct), and [customer service automation](/ai-use-cases/customer-support.md) (Fin/Intercom, Decagon's $4.5B Series D, Klarna; escalation as the load-bearing constraint).
+
+**Edges added (the branches):** Google gained `applies-to` for enterprise-knowledge, scientific-research, computer-use, AI-SDLC and no-code; Google DeepMind for scientific-research and enterprise-knowledge; OpenAI for no-code (Codex Sites). The 5 new use-case files were added as `related-to` targets of the timeline. AI-SDLC now cross-links the four sibling use cases.
+
+**Research method.** web_search is keyless on this machine (Exa/Parallel/Firecrawl all reject), so all current-state facts were pulled with direct urllib against Wikipedia's extract API and the vendors' own pages; every citation URL was probed and returned 200 before entering `sources`. Empirical claims (Decagon $4.5B valuation, Lovable $13.3B Series C, Cursor $29.3B/$3B ARR, Copilot-vs-Bard race, NotebookLM Audio Overviews) are attributed to the page that carried them and marked vendor-reported or unaudited where they are.
+
+**Conventions change.** `conventions.md` frontmatter now declares the house key `relations: []` (it was flagged absent by the linter), and the Frontmatter-keys section states that `relations` is the one frontmatter key that itself holds typed edges. Third-party headcount patterns unchanged.
+
+**Tooling.** `okf_lint.py` reports 0 errors 0 warnings on the new tree; `build-index.py` regenerated all subdirectory indexes and the root `index.md`; counts moved from 42 concepts/398 edges to 47 concepts/430 edges, 0 frontmatter problems.
+
+
 ## 2026-09-11 - review batch 5: the founders of the five funds
 
 **Addition.** Six `Person` files, one for each founder the investor batch had been pointing at without a concept: [Nat Friedman](/founders/nat-friedman.md), [Daniel Gross](/founders/daniel-gross.md), [Yuri Milner](/founders/yuri-milner.md), [Don Valentine](/founders/don-valentine.md), [Ron Conway](/founders/ron-conway.md) and [David Lee](/founders/david-lee.md). All six existed only as `founded-by` targets on the five investor files, so this batch turns the investor directory from a set of claims into a set of claims with people behind them. DeepMind's succession gap was left open on your instruction, and the timeline says so in its own last section rather than changing.

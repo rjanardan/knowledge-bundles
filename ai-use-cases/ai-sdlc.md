@@ -21,6 +21,9 @@ stale_after: 2027-03-10T00:00:00Z
 relations:
   - { type: related-to, target: /ai-domains/agentic-ai.md }
   - { type: related-to, target: /ai-use-cases/no-code-app-building.md }
+  - { type: related-to, target: /ai-use-cases/computer-use.md }
+  - { type: related-to, target: /ai-use-cases/enterprise-knowledge.md }
+  - { type: related-to, target: /ai-use-cases/customer-support.md }
   - { type: related-to, target: /technologies/mcp.md }
 sources:
   - id: copilot-rct

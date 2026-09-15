@@ -15,6 +15,7 @@ generated:
   by: hermes_agent/deepseek-flash
   at: 2026-09-10T20:05:08Z
 stale_after: 2027-09-10T00:00:00Z
+relations: []
 sources:
   - id: okf-spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
@@ -47,7 +48,7 @@ One entity or idea per file. File names are lowercase-hyphenated. `index.md` and
 
 ## Frontmatter keys
 
-Required on every concept: `type`, `title`, `description`, `resource`, `tags`, `aliases`, `status`, `generated`, `stale_after`, and `sources`. Optional: `relations`, `founded`, `hq`, `image`, `died`.
+Required on every concept: `type`, `title`, `description`, `resource`, `tags`, `aliases`, `status`, `generated`, `stale_after`, and `sources`. Optional: `relations`, `founded`, `hq`, `image`, `died`. `relations` is the only frontmatter key that itself holds typed edges — a consumer reading the corpus treats `relations` as the edge store and every other key as node metadata.
 
 * `aliases` is mandatory, not decorative: it is the dedupe key when the same entity is reached by two names, which is the common failure in a graph built from press coverage.
 * `status` is `draft` until a batch is signed off, then `stable`.

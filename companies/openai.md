@@ -41,6 +41,7 @@ relations:
   - { type: applies-to, target: /ai-use-cases/enterprise-knowledge.md }
   - { type: applies-to, target: /ai-use-cases/computer-use.md }
   - { type: applies-to, target: /ai-use-cases/scientific-research.md }
+  - { type: applies-to, target: /ai-use-cases/no-code-app-building.md, note: "Codex Sites and prompt-to-app flow produce no-code-built applications" }
   - { type: ships, target: /models/gpt.md }
   - { type: uses, target: /technologies/mcp.md }
   - { type: competes-with, target: /companies/anthropic.md, note: "frontier models, coding agents, enterprise" }

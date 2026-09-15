@@ -32,6 +32,11 @@ relations:
   - { type: operates-in, target: /ai-domains/foundation-models.md }
   - { type: contributes-to, target: /technologies/tpu.md, note: "the Tensor Processing Unit line, designed in-house" }
   - { type: ships, target: /models/gemini.md }
+  - { type: applies-to, target: /ai-use-cases/enterprise-knowledge.md, note: "Gemini for Workspace; Gemini Notebook knowledge synthesis" }
+  - { type: applies-to, target: /ai-use-cases/scientific-research.md, note: "Gemini Deep Research" }
+  - { type: applies-to, target: /ai-use-cases/computer-use.md, note: "Gemini Live / Gemini in the browser" }
+  - { type: applies-to, target: /ai-use-cases/ai-sdlc.md, note: "Gemini Code Assist / Gemini CLI for software engineering" }
+  - { type: applies-to, target: /ai-use-cases/no-code-app-building.md, note: "Gemini as the model behind prompt-to-app surfaces" }
 sources:
   - id: wiki-google
     resource: https://en.wikipedia.org/wiki/Google

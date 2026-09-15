@@ -32,6 +32,8 @@ relations:
   - { type: ships, target: /models/gemini.md }
   - { type: uses, target: /technologies/tpu.md }
   - { type: contributes-to, target: /technologies/alphafold.md, note: "protein structure prediction; Nobel Prize in Chemistry 2024" }
+  - { type: applies-to, target: /ai-use-cases/scientific-research.md, note: "AlphaFold design work; research agents leaning on DeepMind" }
+  - { type: applies-to, target: /ai-use-cases/enterprise-knowledge.md, note: "Gemini on DeepMind foundation; grounding in Workspace" }
   - { type: competes-with, target: /companies/openai.md }
   - { type: competes-with, target: /companies/anthropic.md }
 sources:
