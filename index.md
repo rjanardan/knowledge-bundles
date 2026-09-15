@@ -4,7 +4,7 @@ okf_version: "0.2"
 
 # Leading AI companies
 
-A knowledge bundle in Google's Open Knowledge Format v0.2. It is a graph first: 47 concepts carrying 430 typed edges, with `_tools/okf-check.py` for conformance and `_tools/build-index.py` for these listings.
+A knowledge bundle in Google's Open Knowledge Format v0.2. It is a graph first: 52 concepts carrying 459 typed edges, with `_tools/okf-check.py` for conformance and `_tools/build-index.py` for these listings.
 
 Entries are listed here for browsing; the machine-readable layer is the `relations` frontmatter block in each concept. Conventions are frozen in [conventions.md](conventions.md).
 
@@ -59,7 +59,12 @@ Concepts that live at the bundle root rather than inside a directory:
 # AI Domains
 
 * [Agentic AI](ai-domains/agentic-ai.md) - Systems in which a model takes actions in a loop against tools and an environment, rather than answering once; the domain where tool protocols and agent benchmarks live.
+* [AGI](ai-domains/agi.md) - Artificial general intelligence - a hypothetical system that matches or surpasses human capability across virtually all cognitive tasks, distinct from narrow AI; the stated goal of the frontier labs in this bundle.
+* [AI safety](ai-domains/ai-safety.md) - The interdisciplinary field concerned with preventing accidents, misuse and other harmful consequences from AI systems, and the domain the four frontier labs in this bundle are all recorded as operating in.
 * [Foundation models](ai-domains/foundation-models.md) - Models trained on broad data at scale and adapted to many downstream tasks; the domain the frontier labs in this bundle compete in.
+* [Interpretability](ai-domains/interpretability.md) - Understanding the internal workings of AI models - the concrete structures, algorithms and circuits inside neural networks; a research domain Anthropic operates in and the counterpart to the black-box treatment of most frontier models.
+* [LLMs](ai-domains/llms.md) - Large language models - transformer-based neural networks trained on vast text corpora to generate, summarise, translate and analyse language; the substrate of the frontier models in this bundle.
+* [Neuro-symbolic AI](ai-domains/neuro-symbolic-ai.md) - The sub-field combining neural networks with symbolic AI - knowledge representation and automated reasoning - to add reliability, data efficiency and trust to deep learning; called the third wave of AI and a candidate alternative path to AGI.
 
 # AI Use Cases
 

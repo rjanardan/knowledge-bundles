@@ -30,6 +30,7 @@ relations:
   - { type: competes-with, target: /companies/anthropic.md, note: "Gemini against Claude; the same company is an investee and partner" }
   - { type: competes-with, target: /companies/microsoft.md, note: "cloud, productivity and enterprise AI" }
   - { type: operates-in, target: /ai-domains/foundation-models.md }
+  - { type: operates-in, target: /ai-domains/llms.md, note: "Gemini is an LLM family" }
   - { type: contributes-to, target: /technologies/tpu.md, note: "the Tensor Processing Unit line, designed in-house" }
   - { type: ships, target: /models/gemini.md }
   - { type: applies-to, target: /ai-use-cases/enterprise-knowledge.md, note: "Gemini for Workspace; Gemini Notebook knowledge synthesis" }

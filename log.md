@@ -5,6 +5,17 @@ title: leading-ai-companies bundle history
 
 # Bundle history
 
+## 2026-09-15 - expand the AI Domains directory
+
+**Addition: five `Domain` concepts.** [AGI](/ai-domains/agi.md) (a hypothetical system matching or surpassing human capability across all cognitive tasks; the stated goal of the frontier labs; the Turing/Ikea/Coffee tests and their contested status; the existential-risk debate held as recorded-not-resolved), [LLMs](/ai-domains/llms.md) (transformer-based language models; architecture and tokenization; the open-weights branch incl. DeepSeek R1; kept distinct from `foundation-models` as the concrete, measurable substrate), [AI safety](/ai-domains/ai-safety.md) (the interdisciplinary field preventing accidents/misuse; the 4-lab `operates-in` cluster; the 5%-median and 37%-catastrophe survey figures), [Interpretability](/ai-domains/interpretability.md) (mechanistic interpretability, coined by Anthropic co-founder Chris Olah; sparse autoencoders and circuits; Anthropic-anchored), and [Neuro-symbolic AI](/ai-domains/neuro-symbolic-ai.md) (combining neural + symbolic for reliability and hallucination control; the Kautz taxonomy; the claimed alternative path to AGI; recorded as edge-less because no bundle company formally operates here on the evidence).
+
+**Edges added (the branches).** OpenAI, Anthropic, Google and Google DeepMind each gained `operates-in: llms` (their model families are LLMs). AI-safety already had four `operates-in` edges from Anthropic/DeepMind/OpenAI/SSI; interpretability keeps its single Anthropic edge. The five new domains became `related-to` targets of the timeline.
+
+**Honesty notes.** AGI and neuro-symbolic carry **no** `operates-in` edge: no bundle company is recorded as formally operating in either domain on the sources read. AGI is the charter-level goal (recorded in the domain and company files, not promoted to an edge); neuro-symbolic is the technical alternative path the frontier labs do not claim. The user explicitly requested neuro-symbolic despite it being currently edge-less, and this file honours that while stating the gap rather than inventing an edge.
+
+**Counts.** 47 -> 52 concepts; 430 -> 454 edges; 0 errors 0 warnings; 132 pending targets / 184 pending edges; `ai-domains/` now holds 7 Domain concepts.
+
+
 ## 2026-09-15 - use cases as the primary trunk
 
 **Restructuring intent.** The user asked to make AI use cases the primary trunk of the bundle and expand the other branches from them. Division of labour: the use-case files carry the economic/business centre (boundary, landscape, evidence, disputed), and the company files carry the `applies-to` edges that hang the actors off the trunk. Inbound-degree links that already existed on the four original use-case targets were honoured rather than moved.

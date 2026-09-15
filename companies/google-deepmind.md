@@ -29,6 +29,7 @@ relations:
   - { type: operates-in, target: /ai-domains/foundation-models.md }
   - { type: operates-in, target: /ai-domains/agentic-ai.md }
   - { type: operates-in, target: /ai-domains/ai-safety.md }
+  - { type: operates-in, target: /ai-domains/llms.md, note: "Gemini is an LLM family" }
   - { type: ships, target: /models/gemini.md }
   - { type: uses, target: /technologies/tpu.md }
   - { type: contributes-to, target: /technologies/alphafold.md, note: "protein structure prediction; Nobel Prize in Chemistry 2024" }

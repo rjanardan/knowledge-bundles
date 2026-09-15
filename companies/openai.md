@@ -37,6 +37,7 @@ relations:
   - { type: operates-in, target: /ai-domains/foundation-models.md }
   - { type: operates-in, target: /ai-domains/agentic-ai.md }
   - { type: operates-in, target: /ai-domains/ai-safety.md }
+  - { type: operates-in, target: /ai-domains/llms.md }
   - { type: applies-to, target: /ai-use-cases/ai-sdlc.md }
   - { type: applies-to, target: /ai-use-cases/enterprise-knowledge.md }
   - { type: applies-to, target: /ai-use-cases/computer-use.md }

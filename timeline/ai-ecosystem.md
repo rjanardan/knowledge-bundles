@@ -61,6 +61,11 @@ relations:
   - { type: related-to, target: /ai-use-cases/computer-use.md }
   - { type: related-to, target: /ai-use-cases/enterprise-knowledge.md }
   - { type: related-to, target: /ai-use-cases/scientific-research.md }
+  - { type: related-to, target: /ai-domains/agi.md }
+  - { type: related-to, target: /ai-domains/llms.md }
+  - { type: related-to, target: /ai-domains/neuro-symbolic-ai.md }
+  - { type: related-to, target: /ai-domains/ai-safety.md }
+  - { type: related-to, target: /ai-domains/interpretability.md }
   - { type: related-to, target: /ai-use-cases/customer-support.md }
 sources:
   - id: openai-intro
@@ -462,7 +467,7 @@ This file is not a second home for facts, and the rule that keeps it honest is s
 
 ## Coverage
 
-Every concept in the bundle that carries a dated fact is a `related-to` target of this file, which is all of them except the generated subdirectory indexes and this file itself. That is deliberate: a timeline that covers only some of the corpus is a claim about the corpus that would be false. The use-cases batch added five use-case files (no-code app building, computer use, enterprise knowledge, scientific research, customer support). The founders batch added six people files and, with them, the five fund founders' births and foundings, one death, and the career moves that connect them to the companies already here; all six are `related-to` targets above, which takes the corpus to 47 concepts.
+Every concept in the bundle that carries a dated fact is a `related-to` target of this file, which is all of them except the generated subdirectory indexes and this file itself. That is deliberate: a timeline that covers only some of the corpus is a claim about the corpus that would be false. The domains batch added five domain files (AGI, LLMs, neuro-symbolic AI, AI safety, interpretability). The use-cases batch added five use-case files (no-code app building, computer use, enterprise knowledge, scientific research, customer support). The founders batch added six people files and, with them, the five fund founders' births and foundings, one death, and the career moves that connect them to the companies already here; all six are `related-to` targets above, which takes the corpus to 52 concepts.
 
 ## Disputed and unverified
 
