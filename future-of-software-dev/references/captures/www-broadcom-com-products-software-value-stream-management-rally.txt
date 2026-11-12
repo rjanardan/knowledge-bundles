@@ -1,0 +1,42 @@
+# capture: https://www.broadcom.com/products/software/value-stream-management/rally
+# title: Rally® | Business Agility & value Stream Management
+# retrieved: 2026-09-11  sha256_16: 32b5dcfb75d7e89a  chars: 2076
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+Broadcom
+Read the accessibility statement or contact us with accessibility-related questions.
+Skip to main content
+
+...
+
+# Rally
+## The platform built for Enterprise visibility and alignment
+Rally is the foundation for business agility and digital transformation. Unlike team-agile tools, Rally connects every portfolio, program and product to your top-level business strategy, giving executives and leaders real-time clarity into progress, spend and value delivered.
+Available on-premise or in the cloud, Rally is intentionally built to extend your Strategic Portfolio Management investment beyond planning, connecting strategy to execution with real-time delivery data.
+
+...
+
+Rally is part of the ValueOps Platform , seamlessly integrating Clarity, Rally, ConnectALL, and Insights.
+* **Complete enterprise visibility** : See every initiative, across every team, in one place
+* **AI-powered insights** : Forecast outcomes, predict risks, and surface hidden opportunities
+* **Proven at scale** : Trusted by the world’s largest organizations to align strategy and execution
+* **SPM-Enhanced Execution** : Connect strategy to delivery with real-time data that powers dynamic planning and investment decisions
+
+...
+
+## AI‑Driven Forecasting and Reporting
+Turn delivery data into action. Leverage AI‑powered analytics to predict bottlenecks, model capacity, and make data‑backed decisions faster.
+
+## Governance and Audit‑Ready Data
+Prove compliance without slowing down. Rally’s reporting engine captures ledger‑grade actuals automatically and builds a defensible trail for CapEx, OpEx and regulatory needs.
+
+...
+
+## Compare
+[Learn how organizations are finding Rally to be over 29% cheaper and increased security and functionality.](https://valueops.broadcom.com/a-head-to-head-cost-breakdown-rally-vs-jira)
+
+...
+
+## Expert and Industry Blogs
+Advance your agile culture, processes and software skills with tips and tricks from our experts. There’s a wealth of content, expertise and information available on our blog.
+* [Visit Now](https://valueops.broadcom.com/resource-center)

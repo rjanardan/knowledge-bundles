@@ -1,0 +1,89 @@
+# capture: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+# title: Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity - METR
+# retrieved: 2026-09-11  sha256_16: 7573d7b08cec9f81  chars: 4125
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+* Our Work
+  + Research
+  + Notes
+  + Updates
+  + Risk Assessment
+* About
+* Donate
+* Careers
+* Search
+METR Logo
+Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+We conduct a randomized controlled trial (RCT) to understand how early-2025 AI tools affect the productivity of experienced open-source developers working on their own repositories. Surprisingly, we find that when developers use AI tools, they take 19% longer than without—AI makes them slower.
+We view this result as a snapshot of early-2025 AI capabilities in one relevant setting; as these systems continue to rapidly evolve, we plan on continuing to use this methodology to help estimate AI acceleration from AI R&D automation.
+    * **Update:** In February 2026, we published new data on the productivity impact of late-2025 AI tools.
+
+...
+
+# CONTRIBUTORS
+## DATE
+### SHARE
+Copy
+Subscribe
+⚠️
+These results are out of date.
+We have released results that are current as of early 2026 , in a continuation of this study. We believe these historical results no longer reflect the current impact of AI models on open-source developer productivity.
+Forecasted vs observed slowdown chart
+
+...
+
+### Motivation
+One reason we’re interested in evaluating AI’s impact in the wild is to better understand AI’s impact on AI R&D itself, which may pose significant risks. For example, extremely rapid AI progress could lead to breakdowns in oversight or safeguards.
+
+...
+
+### Methodology
+When AI is allowed, developers can use any tools they choose (primarily Cursor Pro with Claude 3.5/3.7 Sonnet—frontier models at the time of the study); when disallowed, they work without generative AI assistance.
+
+...
+
+### Core Result
+This gap between perception and reality is striking: developers expected AI to speed them up by 24%, and even after experiencing the slowdown, they still believed AI had sped them up by 20%.
+
+...
+
+### Going Forward
+**Update:** In February 2026, we published new data on the productivity impact of late-2025 AI tools.
+
+...
+
+### FAQ
+After the study, developers estimated that they were sped up by 20% on average when using AI—so they were mistaken about AI’s impact on their productivity.
+
+...
+
+METR is a non-profit (funded by donations) interested in understanding how close AI systems are to accelerating the AI R&D process, which could pose significant destabilizing risks ¹ .
+
+...
+
+```
+@misc { metr-2025-early-2025-ai-experienced-os-dev-study , title = {Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity} , author = {Joel Becker, Nate Rush, Beth Barnes, David Rein} , howpublished = {\url{https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/}} , year = {202
+```
+
+...
+
+## Featured research
+METR researches, develops and runs cutting-edge tests of AI capabilities, including broad autonomous capabilities and the ability of AI systems to conduct AI R&D.
+Measuring the Self-Reported Impact of Early-2026 AI on Technical Worker Productivity
+
+### Measuring the Self-Reported Impact of Early-2026 AI on Technical Worker Productivity
+A survey of 349 technical workers finds a median 1.4–2x self-reported change in value of work due to AI tools, expected to grow over time, though there are reasons to be skeptical of the magnitude.
+Read more
+Early Work on Monitorability Evaluations
+
+### Early Work on Monitorability Evaluations
+We show preliminary results on a prototype evaluation that tests monitors' ability to catch AI agents doing side tasks, and AI agents' ability to bypass this monitoring.
+Read more
+How Does Time Horizon Vary Across Domains?
+
+### How Does Time Horizon Vary Across Domains?
+We build on our time-horizon work and analyze 9 benchmarks for scientific reasoning, math, robotics, computer use, and self-driving in terms of time-horizon trends; we observe generally similar rates of improvement to the 7-month doubling time in our original time-horizon work.
+Read more
+METR Logo
+METR (pronounced 'meter') is a research nonprofit that scientifically measures whether and when AI systems might threaten catastrophic harm to society.
+Subscribe

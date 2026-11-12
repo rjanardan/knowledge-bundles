@@ -1,0 +1,71 @@
+# capture: https://anthropic.com/research/how-ai-is-transforming-work-at-anthropic
+# title: How AI is transforming work at Anthropic \ Anthropic
+# retrieved: 2026-09-11  sha256_16: f4553bf34a8be51c  chars: 4401
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# How AI is transforming work at Anthropic
+How is AI changing the way we work? Our [previous research](https://www.anthropic.com/economic-index) on AI’s economic impacts looked at the labor market as a whole, covering a variety of different jobs. But what if we studied some of the earliest adopters of AI technology in more detail—namely, us?
+Turning the lens inward, in August 2025 we surveyed 132 Anthropic engineers and researchers, conducted 53 in-depth qualitative interviews, and studied internal [Claude Code](https://www.anthropic.com/claude-code) usage data to find out how AI use is changing things at Anthropic.
+
+...
+
+Our research reveals a workplace facing significant transformations: Engineers are getting a lot more done, becoming more “full-stack” (able to succeed at tasks beyond their normal expertise), accelerating their learning and iteration speed, and tackling previously-neglected tasks.
+
+...
+
+We recognize that studying AI’s impact at a company building AI means representing a privileged position—our engineers have early access to cutting-edge tools, work in a relatively stable field, and are themselves contributing to the AI transformation affecting other industries.
+
+...
+
+At the time this data was collected, Claude Sonnet 4 and Claude Opus 4 were the most capable models available, and capabilities have continued to advance.
+More capable AI brings productivity benefits, but it also raises questions about maintaining technical expertise, preserving meaningful collaboration, and preparing for an uncertain future that may require new approaches to learning, mentorship, and career development in an AI-augmented workplace.
+We discuss some initial steps we’re taking to explore these questions internally in the Looking Forward section below. We also explored potential policy responses in our recent blog post on [ideas for AI-related economic policy](https://www.anthropic.com/research/economic-policy-responses) .
+
+...
+
+## Key findings
+5. **Career evolution and uncertainty.** Engineers report shifting toward higher-level work managing AI systems and report significant productivity gains. However, these changes also raise questions about the long-term trajectory of software engineering as a profession.
+
+...
+
+## Survey data
+### Usage and productivity
+There is [recent work from METR](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) , an AI research nonprofit, showing that experienced developers working with AI on highly familiar codebases overestimated their productivity boost from AI.
+
+...
+
+## Qualitative interviews
+### AI delegation approaches
+study](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) from METR.
+
+...
+
+## Claude Code usage trends
+Because survey respondents reported Claude Code as the majority of their usage, we used our [privacy-preserving analysis tool](https://www.anthropic.com/research/clio) to analyze 200,000 internal transcripts from Claude Code from February and August 2025.
+
+...
+
+### Tackling harder problems with less oversight
+Figure 3. Changes in Claude Code usage between August 2025 and February 2025 (x-axes). Average task complexity increased over time (left panel), average maximum consecutive tool calls per transcript increased over time (middle panel), and number of human turns decreased over time (right panel).
+
+...
+
+### Distribution of tasks
+The most striking change between February and August 2025 is that there now are proportionately many more transcripts using Claude to implement new features (14.3% → 36.9%) and do code design or planning (1.0% → 9.9%).
+
+...
+
+#### Task variation across teams
+1. The **Pre-training** team (who help to train Claude) often uses Claude Code for building new features (54.6%), much of which is running extra experiments.
+2.
+
+...
+
+## Looking forward
+We expect to share more concrete plans in 2026 as our thinking matures. Anthropic is a laboratory for responsible workplace transition; we want to not just study how AI transforms work, but also experiment with how to navigate that transformation thoughtfully, starting with ourselves first.
+
+...
+
+## Appendix
+### Limitations
+Finally, this research was conducted in August 2025 when Claude Sonnet 4 and Claude Opus 4 were our state-of-the-art models. Given the rapid pace of AI development, the patterns we observed may have already shifted as newer models become available.

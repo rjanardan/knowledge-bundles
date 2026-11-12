@@ -1,0 +1,80 @@
+# capture: https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/
+# title: Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1 - The GitHub Blog
+# retrieved: 2026-09-11  sha256_16: b65a8d09f20b9b42  chars: 4734
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1
+This surge in activity coincides with a structural milestone: for the first time, TypeScript overtook both Python and JavaScript in August 2025 to become the most used language on GitHub, reflecting how developers are reshaping their toolkits.
+
+...
+
+In August 2025, TypeScript overtook both Python and JavaScript. Its rise illustrates how developers are shifting toward typed languages that make agent-assisted coding more reliable in production.
+
+...
+
+And one of the biggest things in 2025? **Agents are here.** Early signals in our data are starting to show their impact, but ultimately point to one key thing: we’re just getting started and we expect far greater activity in the months and years ahead.
+
+...
+
+## Developer productivity: shipping more, waiting less
+### Developer activity reached record levels in 2025
+Momentum accelerated in early 2025 and coincided with the [preview of Copilot coding agent in March](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/) and [the introduction of Copilot code review in
+
+...
+
+## Open source in 2025: activity and influence in the AI era
+### The top open source projects by contributors
+2025’s top projects split between AI infrastructure (vllm, ollama, huggingface/transformers) and enduring ecosystems (vscode, godot, home-assistant).
+* On one side, projects like **vllm** , **ollama** , **ragflow** , **llama.cpp** , and **huggingface/transformers** dominate, confirming that contributors are investing in the foundation layers of AI—model runtimes, inference engines, and orchestration frameworks.
+
+...
+
+| **Rank** | **Repository** | **Short description** |
+| 1 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | High-throughput LLM inference engine |
+| 4 | [huggingface/transformers](https://github.com/huggingface/transformers) | Core library for model loading & fine-tuning |
+
+...
+
+### AI‑native vs. evergreen ecosystems
+* **AI podium.** Six of the overall top 10 projects by _total_ contributors are AI‑centric (vllm, huggingface/transformers, modelcontextprotocol/servers, llama.cpp, etc.). They averaged **+150 %** contributor growth YoY—triple the OSS median.
+
+...
+
+## Generative AI and agentic workflows become ordinary engineering
+Last year we saw AI move from experiment to mainstream. In 2025, it became part of the everyday workflow. And no matter what tool developers used over the last 12 months, their work converged on GitHub.
+
+...
+
+* **Growth surged early in the calendar year, then normalized as projects shifted from experimentation to shipping.** Contributors ran +100-118% YoY from Feb-May 2025, then cooled to +31% (Jun), +11% (Jul), and -3% (Aug) as teams focused on shipping vs. experimenting.
+
+...
+
+* **Early evidence of a prototype-to-production pivot.** Python-based code accelerated mid-2025 while Notebook growth flattened—signaling packaging into production. (By year’s end, Notebooks rebounded, keeping pace with Python.)
+
+### Strong signals of mainstream appeal
+|**Data point** |**Why it matters** |
+| --- | --- | --- |
+|**178% YoY increase in projects that import an LLM SDK** |**1.13M+** public repositories now import an LLM SDK; **693k+** were created in the last 12 months alone. |Growth rates indicate a shift from early experimentation to sustained building. |
+
+...
+
+### Scale replaces hype
+**1.13M+ public repositories now depend on generative-AI SDKs (up 178% YoY).** More than **693k+** were created in the last 12 months, sharply outpacing 2024’s total (~400,000). The compounding curve that began in early 2023 shows no sign of tapering; every week, on average, we are still seeing new all-time highs.
+
+...
+
+### Here’s how to stay ahead
+* **Expect AI libraries to become “plumbing.”** If your stack can’t load a model or pipe context into one, you’ll feel legacy-bound quickly.
+* **Go beyond notebooks** _._ Package your experiments early to share them with others.
+
+...
+
+## Glossary
+2) Sum these individual ranks. 3) Assign the final “Mona Rank” based on the summed rank.
+* **LLM SDK:** A set of official libraries and tools published by model providers (such as OpenAI, Anthropic, Meta, Mistral, Cohere, or AI21) that make it easier for developers to connect to and use their large language models.
+
+...
+
+## More on [Octoverse](https://github.blog/tag/octoverse/)
+### [How AI is reshaping developer choice (and Octoverse data proves it)](https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/)
+AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice.

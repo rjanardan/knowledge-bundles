@@ -1,0 +1,56 @@
+# capture: https://www.anthropic.com/news/the-anthropic-economic-index
+# title: Introducing the Anthropic Economic Index \ Anthropic
+# retrieved: 2026-09-11  sha256_16: 57aa507667903717  chars: 4180
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# The Anthropic Economic Index
+Feb 10, 2025
+[Read the paper](http://arxiv.org/abs/2503.04761)
+
+...
+
+In the coming years, AI systems will have a major impact on the ways people work. For that reason, we're launching the Anthropic Economic Index , an initiative aimed at understanding AI's effects on labor markets and the economy over time.
+The Index’s [initial report](http://arxiv.org/abs/2503.04761) provides first-of-its-kind data and analysis based on millions of anonymized conversations on [Claude.ai](http://claude.ai/redirect/website.v1.8cd2c52b-39fa-4528-8dad-8aa5f427774e) , revealing the clearest picture yet of how AI is being incorporated
+
+...
+
+We're also [open sourcing the dataset](https://huggingface.co/datasets/Anthropic/EconomicIndex/) used for this analysis, so researchers can build on and extend our findings.
+Developing policy responses to address the coming transformation in the labor market and its effects on employment and productivity will take a range of perspectives.
+
+...
+
+* Today, usage is concentrated in software development and technical writing tasks. Over one-third of occupations (roughly 36%) see AI use in at least a quarter of their associated tasks, while approximately 4% of occupations use it across three-quarters of their associated tasks.
+* AI use leans more toward augmentation (57%), where AI collaborates with and enhances human capabilities, compared to automation (43%), where AI directly performs tasks.
+* AI use is more prevalent for tasks associated with mid-to-high wage occupations like computer programmers and data scientists, but is lower for both the lowest- and highest-paid roles. This likely reflects both the limits of current AI capabilities, as well as practical barriers to using the technology.
+
+...
+
+Infographic showing six professional categories based on Claude.ai usage data: Computer & Mathematical (37.2%), Arts & Media (10.3%), Education & Library (9.3%), Office & Administrative (7.9%), Life Sciences (6.4%), and Business & Financial (5.9%).
+Each category displays its top job titles and most common tasks with their respective usage percentages. _Where and how AI is used across the economy, drawn from real-world usage data from Claude.ai.
+
+...
+
+## Mapping AI usage across the labor market
+Our [new paper](http://arxiv.org/abs/2503.04761) builds on a long line of research on the labor market impact of technologies, from the Spinning Jenny of the Industrial Revolution to the car-manufacturing robots of the present day. We focus on the ongoing impact of AI.
+We don’t survey people on their AI use, or attempt to forecast the future; instead, we have direct data on how AI is actually being used.
+
+### **Analyzing occupational tasks**
+Our research began with an important [insight from the economics literature](https://academic.oup.com/qje/article-abstract/118/4/1279/1925105) : sometimes it makes sense to focus on _occupational tasks_ rather than _occupations themselves_ .
+
+...
+
+We’d therefore expect AI to be adopted selectively for different tasks across different occupations, and that analyzing tasks—in addition to jobs as a whole—would give us a fuller picture of how AI is being integrated into the economy.
+
+...
+
+### **Using Clio to match AI use to tasks**
+We used Clio on a dataset of approximately one million conversations with Claude (specifically, Free and Pro conversations on [Claude.ai](http://claude.ai/redirect/website.v1.8cd2c52b-39fa-4528-8dad-8aa5f427774e) ), and used it to organize the conversations by occupational task.
+
+...
+
+## Conclusions and future research
+AI use is rapidly expanding, and models are becoming ever-more capable. The labor-market picture may look quite different within a relatively short time. For that reason, we’ll repeat many of the analyses above over time to help track the societal and economic changes that are likely to occur.
+
+...
+
+Answers to questions about how to prepare for AI’s impact on the labor market can’t come directly from research in isolation; instead, they’ll come from a combination of evidence, values, and experience from broad perspectives. We look forward to using our new methodology to shed more light on these issues.

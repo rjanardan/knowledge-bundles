@@ -1,0 +1,38 @@
+# capture: https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/
+# title: Research: Quantifying GitHub Copilotâs impact in the enterprise with Accenture - The GitHub Blog
+# retrieved: 2026-09-11  sha256_16: d982405eee153331  chars: 3317
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# Research: Quantifying GitHub Copilotâs impact in the enterprise with Accenture - The GitHub Blog
+URL: https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/
+Published: 2024-05-13
+Author: Ya Gao, GitHub Customer Research
+
+Research: Quantifying GitHub Copilotâs impact in the enterprise with Accenture - The GitHub Blog
+
+# Research: Quantifying GitHub Copilotâs impact in the enterprise with Accenture
+
+We conducted research with developers at Accenture to understand GitHub Copilotâs real-world impact in enterprise organizations. 
+
+ 
+
+ Ya Gao & GitHub Customer Research 
+
+ May 13, 2024 
+
+Since bringing GitHub Copilot to market, weâve conducted several lab studies to discover its impact on developer efficiency, developer satisfaction, and overall code quality. We found that our AI pair programmer helps developers code up to 55% faster and that it made 85% of developers feel more confident in their code quality. With the introduction of our first GitHub Copilot offering for businesses and organizations in 2023âand more recently GitHub Copilot Enterpriseâitâs become increasingly important for us to measure the impact of GitHub Copilot across real-world, large engineering organizations.
+
+To learn more, we partnered with Accenture to study how developers integrated GitHub Copilot into their daily workflows, and we found significant improvements in several areas, including:
+
+- Improved developer satisfaction. 90% of developers found they were more fulfilled with their job when using GitHub Copilot, and 95% said they enjoyed coding more with Copilotâs help.
+- Quickly adopted by developers. Over 80% of Accenture participants successfully adopted GitHub Copilot with a 96% success rate among initial users. 43% found it âextremely easy to use.â Additionally, 67% of total participants used GitHub Copilot at least 5 days per week, averaging 3.4 days of usage weekly.
+
+## Methodology
+
+In this study, we collaborated with Accenture to conduct an extensive, randomized controlled trial (RCT). Participants included developers who engage in a variety of software development tasks daily, including engineering, design, and testing across a spectrum of software products and services. They hold various positions within their organizations from entry-level roles to team management positions, and may work collaboratively or independently depending on the project and team dynamics.
+
+For the trial, developers were randomly assigned to two groups. One group of developers was given access to GitHub Copilot, while the other group was not. Our objective was to assess the influence of GitHub Copilot on developersâ experience within the enterprise setting, where they collaborate on multifaceted projects. We collected DevOps telemetry on several output performance metrics that reflect insights into developersâ regular coding activity.
+
+Beyond the initial experiment, we conducted a company-wide adoption analysis, which explored installation rates, generated code acceptance rates, and the time it took developers to accept GitHub Copilotâs first coding suggestion. Success was determined by whether they accepted a suggestion from GitHub Copilot or not.
+
+In addition, we surveyed the GitHub Copilot users at Acc

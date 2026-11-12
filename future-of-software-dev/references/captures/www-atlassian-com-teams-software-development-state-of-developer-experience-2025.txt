@@ -1,0 +1,30 @@
+# capture: https://www.atlassian.com/teams/software-development/state-of-developer-experience-2025
+# title: State of Developer Experience Report 2025 | Atlassian
+# retrieved: 2026-09-11  sha256_16: 608c0de7979e9bfe  chars: 1537
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# State of Developer Experience Report 2025 | Atlassian
+URL: https://www.atlassian.com/teams/software-development/state-of-developer-experience-2025
+Author: Atlassian
+
+State of Developer Experience Report 2025 | Atlassian 
+
+ 
+
+ 
+
+### Summary 
+
+As generative AI accelerates software development, itâs also reshaping the day-to-day experience of developersâintroducing new tools, expectations, and complexity. Atlassianâs State of Developer Experience report 2025 explores how teams are adapting, where friction still exists, and what it takes to create a developer experience that supports real productivity, satisfaction, and long-term success.
+
+We worked with Wakefield Research to survey 3,500 developers and managers to learn about their biggest friction points, emerging trends, and feelings around organizational alignment. One of the biggest emerging focus areas is AI tools and how thatâs changing the way development teams work. We learned that while more development teams perceive theyâre gaining more time from AI, theyâre also reporting greater organizational inefficiencies than before.
+
+Explore our report to learn more about how AI is reshaping the developer experience and how to make the most of these new capabilities.
+
+##### In this report, youâll learn about: 
+
+Why AI adoption is rising, but organizational inefficiencies are increasing
+
+The biggest productivity drains dev teams face and how to solve for them
+
+The widening disconnect between leadership expectations and developers' actual experiences

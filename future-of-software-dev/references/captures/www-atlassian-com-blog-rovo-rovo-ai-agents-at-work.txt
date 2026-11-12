@@ -1,0 +1,80 @@
+# capture: https://www.atlassian.com/blog/rovo/rovo-ai-agents-at-work
+# title: Rovo at Work: AI that moves work forward - Inside Atlassian
+# retrieved: 2026-09-11  sha256_16: bed876ab642c611b  chars: 3189
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# Rovo at Work: AI that moves work forward - Inside Atlassian
+URL: https://www.atlassian.com/blog/rovo/rovo-ai-agents-at-work
+Published: 2026-02-25
+Author: Gunjan Sood
+
+Rovo at Work: AI that moves work forward - Inside Atlassian
+
+# Rovo at Work: AI that moves work forward
+
+February 25, 2026
+
+Published In Company News
+
+Built to understand the unique context of your projects and apps, Rovo moves beyond generic answers to help your team actually get work done. No more hunting for infoâjust more momentum. In this video, youâll learn about:
+
+- Remix with Rovo: Turn dense Confluence pages into clear visual stories. Learn more.
+- Rovo Skills: Automate repeatable workflows across all your favorite apps. Learn more.
+- Rovo Dev: Move from a Jira spec to a merge-ready PR in your flow. Read all about it here!
+
+---
+
+And in case you missed it, check out our previous Rovo at Work: AI agents in action compilation!
+
+Meet the next evolution of teamwork: AI agents working alongside human teammates to deliver faster, higher-quality outcomes.
+
+See how Rovo turns human-AI collaboration into real team productivity â built for enterprise scale.
+
+Key highlights from the video:
+
+- Design AI workflows in Rovo Studio: Create custom agents and automations that understand your teams, context, and goals â no code required. Sign up for early access.
+- Extend what Rovo can do across your stack: Rovo agents can now connect to your favorite third-party apps like Amplitude, Canva, and Figma using the Model Context Protocol (MCP) standard. Learn more.
+- Bring agents into Jira: Orchestrate agents alongside your team directly in Jira so humans and AI can collaborate within existing workflows â while you stay in control. Learn more.
+
+Try Rovo with your team and discover how it fits into your workflows â and what it unlocks across your organization.
+
+##### About This Article
+
+Head of Product Management for AI, Atlassian
+
+- Share on Facebook (Opens in new window)Facebook
+- Share on X (Opens in new window)X
+- Share on LinkedIn (Opens in new window)LinkedIn
+- Share on Mail (Opens in new window)Mail
+
+Subscribe for more
+
+## Inside Atlassian
+
+### Get insights like this in your inbox
+
+Sign up now
+
+## Related content
+
+Rovo for Everyone, Everywhere with CEO Mike Cannon-Brookes
+
+Article in Company News Rovo
+
+### Rovo for Everyone, Everywhere with CEO Mike Cannon-Brookes
+
+Discover how Atlassianâs latest Rovo innovations are transforming teamwork, featuring insights from our CEO
+
+Pune Sparks AI Automation with Forge and Rovo
+
+### Pune Sparks AI Automation with Forge and Rovo
+
+Last month, the Pune Community Group brought 80 developers together to build real-world applications using Forge and Rovo, and it was a huge success! Every participant created two functional apps in just five hours. Three community champions and five Atlassian experts provided hands-on guidance throughout the session. What follows are highlights from the dayâs most [â¦]
+
+Rovo Dev is now generally available in VS Code
+
+Article in Company News Rovo
+
+### Rovo Dev is now generally available in VS Code
+
+Weâre excited to announce that Rovo Dev is now generally available in VS Code as part of the Atl

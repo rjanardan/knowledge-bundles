@@ -1,0 +1,13 @@
+# capture: https://octoverse.github.com/
+# title: Octoverse 2025: The state of open source | The State of the Octoverse
+# retrieved: 2026-09-11  sha256_16: dd92faaaeeb2b836  chars: 407
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# Octoverse 2025: The state of open source | The State of the Octoverse
+URL: https://octoverse.github.com/
+
+Octoverse 2025: The state of open source | The State of the Octoverse
+
+# A new developer joins GitHub every second as AI leads TypeScript to #1 
+
+ In this yearâs Octoverse, we uncover how AI, agents, and typed languages are driving the biggest shifts in software development in more than a decade.

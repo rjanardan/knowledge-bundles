@@ -1,0 +1,52 @@
+# capture: https://arxiv.org/abs/2507.09089
+# title: [2507.09089] Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+# retrieved: 2026-09-11  sha256_16: 8fb9a5e271fcad65  chars: 2647
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+[](https://arxiv.org/IgnoreMe) [archive](https://arxiv.org/)
+[Search](https://arxiv.org/search) [Submit](https://arxiv.org/user/create) [Donate](https://info.arxiv.org/about/donate.html)
+
+# Computer Science
+## Artificial Intelligence
+**arXiv:2507.09089** (cs)
+[Submitted on 12 Jul 2025 ( [v1](https://arxiv.org/abs/2507.09089v1) ), last revised 25 Jul 2025 (this version, v2)]
+
+# Title: Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+Authors: [Joel Becker](https://arxiv.org/search/cs?searchtype=author&query=Becker,+J) , [Nate Rush](https://arxiv.org/search/cs?searchtype=author&query=Rush,+N) , [Elizabeth Barnes](https://arxiv.org/search/cs?searchtype=author&query=Barnes,+E)
+
+...
+
+View PDF [HTML (experimental)](https://arxiv.org/html/2507.09089v2)
+> Abstract: Despite widespread adoption, the impact of AI tools on software development in the wild remains understudied.
+We conduct a randomized controlled trial (RCT) to understand how AI tools at the February-June 2025 frontier affect the productivity of experienced open-source developers.
+16 developers with moderate AI experience complete 246 tasks in mature projects on which they have an average of 5 years of prior experience. Each task is randomly assigned to allow or disallow usage of early 2025 AI tools.
+When AI tools are allowed, developers primarily use Cursor Pro, a popular code editor, and Claude 3.5/3.7 Sonnet. Before starting tasks, developers forecast that allowing AI will reduce completion time by 24%.
+
+...
+
+To understand this result, we collect and evaluate evidence for 20 properties of our setting that a priori could contribute to the observed slowdown effect--for example, the size and quality standards of projects, or prior developer experience
+
+...
+
+| Comments: | 51 pages, 8 tables, 22 figures |
+| Subjects: | Artificial Intelligence (cs.AI) ; Human-Computer Interaction (cs.HC); Software Engineering (cs.SE) |
+| Cite as: | [arXiv:2507.09089](https://arxiv.org/abs/2507.09089) [cs.AI] |
+|  | (or [arXiv:2507.09089v2](https://arxiv.org/abs/2507.09089v2) [cs.AI] for this version) |
+|  | https://doi.org/10.48550/arXiv.2507.09089 |
+
+...
+
+## Submission history
+From: Nate Rush  [view email ]
+**[[v1]](/abs/2507.09089v1)** Sat, 12 Jul 2025 00:16:33 UTC (15,206 KB)
+**[v2]** Fri, 25 Jul 2025 00:43:07 UTC (5,596 KB)
+Full-text links:
+
+...
+
+## Access Paper:
+### References & Citations
+* [NASA ADS](https://ui.adsabs.harvard.edu/abs/arXiv:2507.09089)
+* [Google Scholar](https://scholar.google.com/scholar_lookup?arxiv_id=2507.09089)
+* [Semantic Scholar](https://api.semanticscholar.org/arXiv:2507.09089)
+export BibTeX citation

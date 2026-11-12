@@ -1,0 +1,40 @@
+# capture: https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+# title: Research: quantifying GitHub Copilotâs impact on developer productivity and happiness - The GitHub Blog
+# retrieved: 2026-09-11  sha256_16: bd3ad99d66b3d8d5  chars: 3322
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# Research: quantifying GitHub Copilotâs impact on developer productivity and happiness - The GitHub Blog
+URL: https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+Published: 2022-09-07
+Author: Eirini Kalliamvakou
+
+Research: quantifying GitHub Copilotâs impact on developer productivity and happiness - The GitHub Blog
+
+# Research: quantifying GitHub Copilotâs impact on developer productivity and happiness
+
+When the GitHub Copilot Technical Preview launched just over one year ago, we wanted to know one thing: Is this tool helping developers? The GitHub Next team conducted research using a combination of surveys and experiments, which led us to expected and unexpected answers.
+
+ Eirini KalliamvakouÂ·@ikaliam 
+
+ September 7, 2022 | Updated May 21, 2024 
+
+Everyday, we use tools and form habits to achieve more with less. Software development produces such a high number of tools and technologies to make work efficient, to the point of inducing decision fatigue. When we first launched a technical preview of GitHub Copilot in 2021, our hypothesis was that it would improve developer productivity and, in fact, early users shared reports that it did. In the months following its release, we wanted to better understand and measure its effects with quantitative and qualitative research. To do that, we first had to grapple with the question: what does it mean to be productive?
+
+## Why is developer productivity so difficult to measure?
+
+When it comes to measuring developer productivity, there is little consensus and there are far more questions than answers. For example:
+
+- What are the ârightâ productivity metrics? [1, 2]
+- How valuable are self-reports of productivity? [3]
+- Is the traditional view of productivityâoutputs over inputsâa good fit for the complex problem solving and creativity involved in development work? [4].
+
+In a 2021 study, we found that developersâ own view of productivity has a twistâitâs more akin to having a good day. The ability to stay focused on the task at hand, make meaningful progress, and feel good at the end of a dayâs work make a real difference in developersâ satisfaction and productivity.
+
+This isnât a one-off finding, either. Other academic research shows that these outcomes are important for developers [5] and that satisfied developers perform better [6, 7]. Clearly, thereâs more to developer productivity than inputs and outputs.
+
+## How do we think about developer productivity at GitHub?
+
+Because AI-assisted development is a relatively new field, as researchers we have little prior research to draw upon. We wanted to measure GitHub Copilotâs effects, but what are they? After early observations and interviews with users, we surveyed more than 2,000 developers to learn at scale about their experience using GitHub Copilot. We designed our research approach with three points in mind:
+
+- Look at productivity holistically. At GitHub we like to think broadly and sustainably about developer productivity and the many factors that influence it. We used the SPACE productivity framework to pick which aspects to investigate.
+- Include developersâ first-hand perspective. We conducted multiple rounds of research including qualitative (perceptual) and

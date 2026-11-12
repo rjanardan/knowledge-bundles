@@ -1,0 +1,16 @@
+# capture: https://www.prnewswire.com/news-releases/rally-software-announces-pricing-of-initial-public-offering-202671891.html
+# title: Rally Software Announces Pricing of Initial Public Offering
+# retrieved: 2026-09-11  sha256_16: e08e20e01505799e  chars: 933
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+# Rally Software Announces Pricing of Initial Public Offering
+## Share this article
+BOULDER, Colo. , April 12, 2013 /PRNewswire/ -- Rally®, a leading provider of cloud-based solutions for managing Agile software development, announced today the pricing of its initial public offering of 6,000,000 shares of its common stock at a price to the public of $14.00 per share.
+The shares are expected to begin trading on the New York Stock Exchange on April 12, 2013 , under the symbol "RALY." In addition, the company has granted the underwriters a 30-day option to purchase up to 900,000 additional shares of common stock.
+
+...
+
+## Products
+* [Distribute Press Releases](https://www.prnewswire.com/pr-distribution-and-placement/ "Distribute Press Releases")
+* [Report Results](https://www.prnewswire.com/amplify-report-module/ "Report Results")
+* [Amplify Content](https://www.prnewswire.com/multichannel-amplification/ "Amplify Content")

@@ -1,0 +1,267 @@
+# capture: https://www.atlassian.com/company
+# title: About Us | Atlassian
+# retrieved: 2026-09-11  sha256_16: 51c3c2cb898eddf1  chars: 7002  http: 200
+# raw retrieval artifact - not a concept
+----------------------------------------------------------------------
+Close View this page in your language ? 
+ All languages Choose your language 
+ 中文 
+ Deutsch 
+ English 
+ Español 
+ Français 
+ Italiano 
+ 한국어 
+ Nederlands 
+ 日本語 
+ Português 
+ Pусский 
+ Polski 
+
+ Who we are 
+
+ We help teams change the world 
+
+ Behind every great human achievement, there is a team.
+
+ From medicine and space travel, to disaster response and pizza deliveries, our products help teams all over the planet advance humanity through the power of software.
+
+ Our mission is to help unleash the potential of every team through open work.
+
+ 12,000+ Atlassians 
+
+ Presence in 14 countries 
+
+ 300,000+ customers 
+
+ 1% donated of all profit, employee time, and equity 
+
+ $132 million donated in Community licenses 
+
+ 5,700+ apps in our Marketplace 
+
+ 4.6M+ community members 
+
+ 2 planets with our software on them 
+
+ A brief history 
+ Armed with a credit card and a dream, two college friends, Mike Cannon-Brookes and Scott Farquhar set out to create Atlassian. In 2002, they didn't know what kind of company Atlassian was going to be, but they knew exactly what it shouldn't be—an environment where they had to conform rather than be who they authentically are.
+ Now 20 years in, we’ve grown into a global company with employees all over the world, but those early ambitions hold true. Here’s our story:
+
+ Mike and Scott, both 18, land in the same scholarship course at the University of New South Wales.
+
+ 1998
+
+ Atlassian, inspired by the Greek Titan, is registered as a business name.
+
+ 2001
+
+ Atlassian becomes real with the launch of Jira 1.0.
+
+ 2002
+
+ Confluence 1.0 is born and released to the world.
+
+ 2003
+
+ 1,000 We get our 1,000th customer.
+
+ 2005
+
+ We co-found Pledge 1% and Atlassian Foundation is created.
+
+ 2006
+
+ Our five core values come to life.
+ Open company, no bullshit.
+ Build everything with heart and balance.
+ Don’t #@!% the customer.
+ Play as a team.
+ Be the change you seek.
+
+ 2007
+
+ We open our first European office in Amsterdam.
+
+ 2009
+
+ Atlassian ships first cloud versions of Confluence and Jira.
+
+ 2011
+
+ 10 years! Atlassian celebrates its 10th anniversary.
+ We hit $100 million dollars of revenue.
+
+ 2012
+
+ We open offices in Yokohama and Manila.
+ Jira Service Desk (a former ShipIt project!) joins Atlassian's suite of tools.
+
+ 2013
+
+ Atlassian goes public! We are listed on NASDAQ as TEAM.
+
+ 2015
+
+ Trello joins our growing family of tools.
+
+ 2017
+
+ Opsgenie joins our product family.
+ We opened our Bengaluru office.
+
+ 2018
+
+ We launched Jira Service Management, the next generation of Jira Service Desk.
+ Atlassian announces TEAM Anywhere, a distributed work policy that allows employees to work from (almost) anywhere.
+
+ 2020
+
+ Launched Jira Work Management.
+
+ 2021
+
+ 20 years! Celebrating 20 years!
+
+ 2022
+
+ Introduced AI to Atlassian cloud platform.
+ Atlassian acquires Loom.
+
+ 2023
+
+ Announced Rovo, our AI teammate.
+ Jira Software and Jira Work Management unite into Jira.
+
+ 2024
+
+ Debut Strategy and Teamwork Collections.
+
+ 2025
+
+ Meet the team behind teams 
+
+ Our people are at the heart of Atlassian. Meet the unique builders and innovators leading the way.
+
+ Meet our leadership team 
+
+ Connect with the Atlassian Community 
+
+ All the teammates you never knew you had in one place.
+
+ Find your people, your answers, your path to growth 
+
+ What we believe 
+
+ Values to live by 
+
+ Our unique values describe, at the most fundamental level, what we stand for. These five values shape our culture, influence who we are, what we do, and even who we hire. They're hard-wired into our DNA and will stay the same as we continue to grow.
+
+ Learn more 
+
+ Open company, no bullshit 
+
+ Play, as a team 
+
+ Build with heart and balance 
+
+ Don’t #@!% the customer 
+
+ Be the change you seek 
+
+ We :heart: teams 
+
+ Over 300,000 customers use Atlassian to empower their teams and drive their missions forward. 
+
+ We take 'Don't #@!% the Customer' seriously because our customers are the reason why we do what we do. It's even why we price our products so every company can afford them. They inspire us, challenge us, and in turn, help us build better products.
+
+ Learn more about our customers 
+
+ Taking the 1% Pledge 
+
+ We've joined forces with leading companies around the world to donate 1% of equity, profit, employee time, and software licenses to the community.
+
+ Learn more 
+
+ A vision for foundation 
+
+ We created the Atlassian Foundation to help make the world a better place by partnering with local organizations and global ones like Room to Read.
+
+ Learn more 
+
+ Join the ultimate team 
+
+ Every Atlassian is encouraged to bring their truest, most authentic selves to work. We're building a 100-year company and are committed to building an inclusive workplace where each Atlassian feels a sense of belonging. 
+
+ Learn more 
+
+ Corporate social responsibility 
+
+ Atlassian is built to be open, inclusive, fair, and just. When we face tough questions about ethics, people, or the planet, we let those principles guide us
+
+ Learn more 
+
+ How we work 
+
+ Working Open 
+
+ We believe all teams have the potential to do amazing things when work is Open.
+ Much of the world works, often unwittingly, in a closed way. Information is hidden or lost, bonds between teams and teammates are weak, and perspectives are withheld. The result? People burn out. Knowledge is wasted. Potential is left on the table. Forward progress is halted. This is why Open matters. This is why we do what we do at Atlassian.
+ Open work has always been central to our values. It's in the DNA of our products and we bring it to life through our practices. But it doesn't just happen. Our teams make an effort to work, communicate, and collaborate openly every day to lead by example.
+ Open unlocks new opportunities. Open brings us together. Open unleashes potential.
+
+ TOOLS BEYOND SOFTWARE 
+
+ Open in action 
+
+ From conferences to hackathons to Atlassian user groups, we host and attend events around the world to share our philosophy, best practices, and announce our latest product innovations.
+
+ Learn more 
+
+ TOOLS BEYOND SOFTWARE 
+
+ Introducing the Team Playbook 
+
+ Good teamwork needs more than just the right tools. Learn how to solve common pain points with step-by-step guides, practical advice and workshops made by teams, for teams.
+
+ Learn more 
+
+ Opening work up 
+
+ See how our philosophy of open work inspires and influences everything we do.
+
+ Play video 
+
+ Changing the way teams work together 
+
+ Open work isn't just a philosophy, it's a practice. Take a deep dive into our original research and thinking around teamwork.
+
+ F@ST COMPANY ARTICLE 
+
+ Atlassian’s New Diversity Report Shows You Can’t Make Progress Without Transparency 
+
+ Learn more 
+
+ Blog Post 
+
+ Let’s open up work, together 
+
+ Learn more 
+
+ Atlassian Culture 
+
+ Sharing how Atlassian works towards social and environmental progress 
+
+ Learn more 
+
+ BLOG POST 
+
+ 10 ways to get started with the Team Playbook 
+
+ Read more 
+
+ BLOG POST 
+
+ 3 ways to improve collaboration by putting culture first 
+
+ Read more

@@ -1,0 +1,167 @@
+# capture: https://pcworld.com/article/427695/ca-gets-agile-with-480-purchase-of-rally.html
+# retrieved: 2026-09-11  sha256_16: e720a84fa0814310  chars: 4336  http: 200
+# raw retrieval artifact - not a concept
+----------------------------------------------------------------------
+Consumer AI 
+ Home Robotics 
+ Performance 
+ Privacy 
+ Productivity 
+ Smart Answers 
+ Magazine 
+
+ Search 
+
+ Menu 
+
+ HOT TOPICS 
+ Best laptops 
+ Best VPNs 
+ Best antivirus 
+ Laptop deals 
+ Desktop PC deals 
+ Mini PC deals 
+ Newsletters 
+
+ Back 
+
+ Close 
+
+ Search 
+
+ CONSUMER AI 
+ HOME ROBOTICS 
+ PERFORMANCE 
+ PRIVACY 
+ PRODUCTIVITY 
+ BY PRODUCT CATEGORY Accessories 
+ Business 
+ Entertainment 
+ Gaming 
+ Laptops 
+ Mobile 
+ Monitors 
+ Computer Components 
+ Security 
+ Smart Home Security 
+ Personal Software 
+ Storage 
+ Streaming 
+ Networking 
+ Windows 
+
+ BY STORY TYPE News 
+ Best Picks 
+ Reviews 
+ How-To 
+ Deals 
+
+ BLOGS Boost Mode 
+ Prompt Mode 
+ Safe Mode 
+ Smart Mode 
+ The Full Nerd 
+ Cord-Cutter Confidential 
+ Try This 
+
+ EVENTS Annual Awards 
+ Back to School 
+ Black Friday 
+ CES 
+ Computex 
+ Prime Day 
+
+ NEWSLETTERS 
+ DIGITAL MAGAZINE Digital Magazine - Subscribe 
+ Digital Magazine - Info 
+ Gift Subscription 
+
+ SMART ANSWERS 
+ CLIENT CONTENT BrandPosts 
+ The 1Password Guide to Password Managers 
+ The Avast Online Security Buyer’s Guide 
+ The Dell 2026 buying guide: Laptops, monitors and Alienware gaming gear 
+ The Dell & Alienware 2026 Wish List 
+ The EaseUS PC Utility Buying Guide 
+ The 2026 ECOVACS Robot Vacuum & Window Robot Buying Guide 
+ The GIGABYTE AI Gaming Laptop Buyer’s Guide 
+ The MSI AI PC Buyer’s Guide: From Mini AI PCs to Powerful AI Workstations 
+ The MSI Guide to Wi-Fi 7: How to Fix Wireless Dead Zones and Upgrade to Wi-Fi 7 at Home 
+ The MSI Guide to Wireless Gaming Peripherals 
+ The Navimow Robot Lawn Mower Buying Guide 
+ The Norton Security Buyer’s Guide 
+ The Norton Security UK Buyer’s Guide 
+ The Norton Small Business Security Buyer’s Guide 
+ The Optery Guide to Personal Data Removal 
+ The Roborock Guide to Smarter Floor Cleaning 
+ How to Choose an ROG Custom Gaming Keyboard 
+ The Seagate & LaCie External Storage Buyer’s Guide 
+ The T-Mobile 5G and Fiber Home Internet Buying Guide 
+ The TP-Link Guide to Modern Mesh Home Wi-Fi 
+ The ZOTAC GAMING Graphics Card & MEK PC Buyer’s Guide 
+
+ When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence .
+
+ Home 
+
+ Business 
+
+ by Joab Jackson
+
+ CA gets ‘agile’ with $480 million purchase of Rally
+
+ News 
+
+ May 27, 2015 
+
+ Expanding into the field of agile software development, CA Technologies is acquiring programming tools and services company Rally Software for US$480 million.
+ CA will add Rally’s technologies to its own roster of tools and services for project management.
+
+ Rally’s software and cloud services help teams manage complex software projects and include functionality for collaboration, managing projects and portfolios, diagnostic analysis, and platform integration.
+ Rally has shaped its products to work in agile development environments , in which teams of developers closely collaborate to build applications quickly. More than two-thirds of companies said that they plan to implement, or have already implemented, agile programming methodologies, according to a recent Forrester survey of 560 IT decision makers. 
+
+ Based in Boulder, Colorado, and founded in 2001, Rally has more than 11,500 employees in 45 countries. It generated sales of $87.5 million in its most recent fiscal year. Its customers have included defense integrator Raytheon, cable company Comcast, and storage systems vendor EMC.
+ Although it maintains a considerable business in mainframe software, CA has been branching out to offer a wider range of cloud and systems management technologies. For large teams, CA offers a variety of lifecycle management and change management products.
+
+ CA expects to close the transaction by the end of September.
+
+ ABOUT 
+ About Us 
+ Advertise 
+ Ad Choices 
+ Contact Us 
+ Foundry Careers 
+ Smart Answers 
+ Annual Awards 
+
+ POLICIES 
+ Editorial Ethics Policy 
+ Privacy Policy 
+ Cookie Policy 
+ Terms of Service 
+ Copyright Notice 
+ Privacy Settings 
+ European Privacy Settings 
+ California: Do Not Sell My Personal Info 
+ Reader Preferences 
+ Licensing & Eprints 
+
+ PCWORLD CATEGORIES 
+ Consumer AI 
+ Home Robotics 
+ Performance 
+ Privacy 
+ Productivity 
+
+ SUBSCRIBE 
+ Digital Magazine - Subscribe 
+ Digital Magazine - Info 
+ Gift Subscription 
+ Newsletters 
+
+ Facebook 
+ X 
+ YouTube 
+ LinkedIn 
+
+ © 2026 FoundryCo, Inc. All Rights Reserved.

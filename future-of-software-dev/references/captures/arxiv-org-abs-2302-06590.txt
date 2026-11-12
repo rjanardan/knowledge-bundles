@@ -1,0 +1,49 @@
+# capture: https://arxiv.org/abs/2302.06590
+# title: [2302.06590] The Impact of AI on Developer Productivity: Evidence from GitHub Copilot
+# retrieved: 2026-09-11  sha256_16: 6c0c92dfe0816185  chars: 2414
+# raw retrieval artifact - not a concept; cited from concept sources[]
+----------------------------------------------------------------------
+[](https://arxiv.org/IgnoreMe) [archive](https://arxiv.org/)
+[Search](https://arxiv.org/search) [Submit](https://arxiv.org/user/create) [Donate](https://info.arxiv.org/about/donate.html)
+
+# Computer Science
+## Software Engineering
+**arXiv:2302.06590** (cs)
+[Submitted on 13 Feb 2023]
+
+# Title: The Impact of AI on Developer Productivity: Evidence from GitHub Copilot
+Authors: [Sida Peng](https://arxiv.org/search/cs?searchtype=author&query=Peng,+S) , [Eirini Kalliamvakou](https://arxiv.org/search/cs?searchtype=author&query=Kalliamvakou,+E) , [Peter Cihon](https://arxiv.org/search/cs?searchtype=author&query=Cihon,+P) , [Mert
+Demirer](https://arxiv.org/search/cs?searchtype=author&query=Demirer,+M)
+View PDF [HTML (experimental)](https://arxiv.org/html/2302.06590v1)
+> Abstract: Generative AI tools hold promise to increase human productivity. This paper presents results from a controlled experiment with GitHub Copilot, an AI pair programmer.
+Recruited software developers were asked to implement an HTTP server in JavaScript as quickly as possible. The treatment group, with access to the AI pair programmer, completed the task 55.8% faster than the control group.
+Observed heterogenous effects show promise for AI pair programmers to help people transition into software development careers.
+| Subjects: | Software Engineering (cs.SE) |
+| Cite as: | [arXiv:2302.06590](https://arxiv.org/abs/2302.06590) [cs.SE] |
+|  | https://doi.org/10.48550/arXiv.2302.06590 |
+
+...
+
+## Submission history
+From: Mert Demirer  [view email ]
+**[v1]** Mon, 13 Feb 2023 18:42:46 UTC (3,301 KB)
+Full-text links:
+
+## Access Paper:
+* View PDF
+* [HTML (experimental)](https://arxiv.org/html/2302.06590v1)
+* TeX Source
+[view license](http://arxiv.org/licenses/nonexclusive-distrib/1.0/ "Rights to this article")
+
+### Current browse context:
+cs.SE
+[< prev](https://arxiv.org/prevnext?id=2302.06590&function=prev&context=cs.SE "previous in cs.SE (accesskey p)") | [next >](https://arxiv.org/prevnext?id=2302.06590&function=next&context=cs.SE "next in cs.SE (accesskey n)")
+new | recent | 2023-02
+Change to browse by:
+[cs](https://arxiv.org/abs/2302.06590?context=cs)
+
+### References & Citations
+* [NASA ADS](https://ui.adsabs.harvard.edu/abs/arXiv:2302.06590)
+* [Google Scholar](https://scholar.google.com/scholar_lookup?arxiv_id=2302.06590)
+* [Semantic Scholar](https://api.semanticscholar.org/arXiv:2302.06590)
+export BibTeX citation
